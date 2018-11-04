@@ -1,0 +1,27 @@
+<wpml-config>
+    <admin-texts>
+        <key name="mtheme_main_logo" />
+        <key name="mtheme_responsive_logo" />
+        <key name="mtheme_preloader_logo" />
+        <key name="mtheme_rightclick_disabletext" />
+        <key name="mtheme_404_title" />
+        <key name="mtheme_event_box_title" />
+        <key name="mtheme_portfolio_box_title" />
+        <key name="mtheme_blog_box_title" />
+        <key name="mtheme_event_gallery_title" />
+        <key name="mtheme_read_more" />
+        <key name="mtheme_portfolio_singular_refer" />
+        <key name="mtheme_portfolio_plural_refer" />
+        <key name="mtheme_portfolio_link_text" />
+        <key name="mtheme_portfolio_client_refer" />
+        <key name="mtheme_portfolio_skill_refer" />
+        <key name="mtheme_portfolio_allitems" />
+        <key name="mtheme_proofing_all_items" />
+        <key name="mtheme_proofing_selected_count" />
+        <key name="mtheme_proofing_rejected_items" />
+        <key name="mtheme_proofing_selected_items" />
+        <key name="mtheme_footer_copyright" />
+    </admin-texts>
+</wpml-config>
+
+

@@ -1,0 +1,14 @@
+.megamenu_help_note {
+	font-size:10px;
+	color:#333333;
+	display:block;
+	padding:10px;
+	background:#FEFFEB;
+}
+.mtheme_megamenu_row_box .textbox {
+	width:100%;
+}
+.mtheme_megamenu_row_box label {
+	font-weight: bold;
+	margin-top:10px;
+}

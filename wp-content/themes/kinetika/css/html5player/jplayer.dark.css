@@ -1,0 +1,185 @@
+.entry-content .jp-jplayer a,
+.jp-controls a {
+    text-decoration: none;
+}
+.jp-title {
+    font-size:10px;
+    text-transform: uppercase;
+    font-weight: 500;
+    letter-spacing: 1px;
+    text-align: center;
+    padding: 15px 0 0 0;
+}
+.jp-video .jp-title {
+    padding-bottom: 15px;
+}
+
+.jp-title ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.jp-gui {
+	position: relative;
+    background: #fff;
+    padding-top: 2px;
+}
+
+.jp-jplayer, .jp-audio {
+    width: 100%;
+    max-width: 100%;
+    line-height: 0;
+}
+
+.jplayer-shortcode h3 {
+    font-size:11px;
+    letter-spacing: 0.5px;
+    margin-bottom: 5px;
+}
+.jp-controls,
+.entry-content ul.jp-controls {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    font-family: "feather";
+}
+
+.jp-controls li {
+    display: inline;
+}
+
+.jp-controls a,
+.entry-content .jp-controls a {
+    color: #6a6a6a;
+}
+
+.jp-play,.jp-pause {
+    width: 60px;
+    height: 40px;
+    display: inline-block;
+    text-align: center;
+    line-height: 35px;
+    border-right: 1px solid #fff;
+    border-right: 1px solid rgba(255,255,255,0.1);
+}
+
+.jp-controls a:hover,
+.entry-content .jp-controls a:hover {
+    color:#000;
+}
+
+.jp-mute,.jp-unmute {
+    position: absolute;
+    right: 75px;
+    top: -1px;
+    width: 20px;
+    height: 38px;
+    display: inline-block;
+    line-height: 40px;
+}
+
+.jp-mute {
+    text-align: left;
+}
+
+.jp-volume-bar {
+    position: absolute;
+    right: 30px;
+    top: 19px;
+    width: 45px;
+    height: 2px;
+    background-color: #a6a6a6;
+    overflow: hidden;
+}
+.jp-volume-bar:hover {
+    cursor: pointer;
+}
+.jp-volume-bar-value {
+    background-color: #fff;
+    height: 2px;
+}
+
+.jp-progress {
+    background-color: #E1E1E1;
+    left: 0;
+    overflow: hidden;
+    position: absolute;
+    top: -2px;
+    width: 100%;
+}
+
+.jp-play-bar {
+    height: 2px;
+    background-color: #fff;
+}
+.jp-progress:hover {
+    cursor: pointer;
+}
+
+.jp-time-holder {
+    color: #6a6a6a;
+    font-size: 10px;
+    line-height: 12px;
+    position: absolute;
+    right: 120px;
+    top: 14px;
+}
+
+
+
+.fullscreenslideshow-audio {
+	position: fixed;
+	bottom:80px;
+	right:-23px;
+    z-index: 2;
+}
+
+.fullscreenslideshow-audio .jp-interface { }
+.fullscreenslideshow-audio .jp-audio div.jp-type-single div.jp-interface { background:none; height: 35px; width:35px;}
+.fullscreenslideshow-audio .jp-audio {position:absolute; bottom:0; right:5px; z-index:10; }
+.fullscreenslideshow-audio .jp-volume-bar { width:40px; }
+.fullscreenslideshow-audio .jp-audio div.jp-type-single div.jp-volume-bar { top: 15px; left: 36px; }
+.fullscreenslideshow-audio .jp-controls a {
+    background: #fff;
+    border-radius: 50px;
+    color: #000000;
+    height: 40px;
+    line-height: 37px;
+    text-align: center;
+    width: 40px;
+        transition: color 0.5s;
+        -moz-transition: color 0.5s;
+        -webkit-transition: color 0.5s;
+        -o-transition: color 0.5s;
+}
+.fullscreenslideshow-audio .jp-controls a:hover {
+    background: #aaa;
+}
+.fullscreenslideshow-audio .jp-play,
+.fullscreenslideshow-audio .jp-pause {
+    border: 0;
+    bottom: -5px;
+    display: inline-block;
+    height: 40px;
+    line-height: 40px;
+    position: absolute;
+    right: 70px;
+    text-align: center;
+    width: 60px;
+    background: none;
+}
+.fullscreenslideshow-audio .jp-play:hover,
+.fullscreenslideshow-audio .jp-pause:hover {
+    background: none;
+}
+
+.fullscreenslideshow-audio {
+}
+
+a.jp-mute {
+	background:none;
+}
+a.jp-mute:after{
+	
+}

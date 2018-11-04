@@ -1,0 +1,3146 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: iMaginem Pagebuilder\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-04-04 22:30+0530\n"
+"PO-Revision-Date: 2016-04-04 22:30+0530\n"
+"Last-Translator: imaginem <imagine.themes@gmail.com>\n"
+"Language-Team: imaginem\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: builder-presets/preset-data.php:3
+msgid "About Us"
+msgstr ""
+
+#: builder-presets/preset-data.php:6
+msgid "About Me"
+msgstr ""
+
+#: builder-presets/preset-data.php:9
+msgid "Contact Us"
+msgstr ""
+
+#: builder-presets/preset-data.php:12
+msgid "Meet the team"
+msgstr ""
+
+#: builder-presets/preset-data.php:15
+msgid "Our Office"
+msgstr ""
+
+#: builder-presets/preset-data.php:18
+msgid "Our Services"
+msgstr ""
+
+#: builder-presets/preset-data.php:21
+msgid "Portfolio Gallery"
+msgstr ""
+
+#: builder-presets/preset-data.php:24
+msgid "Portfolio Builder"
+msgstr ""
+
+#: builder-presets/preset-data.php:27
+msgid "Image gallery"
+msgstr ""
+
+#: builder-presets/preset-data.php:30 plugs/mpb-blog-timeline.php:33
+msgid "Blog Timeline"
+msgstr ""
+
+#: builder-presets/preset-data.php:33
+msgid "Blog Grid"
+msgstr ""
+
+#: builder-presets/preset-data.php:36
+msgid "OnePage 1"
+msgstr ""
+
+#: builder-presets/preset-data.php:39
+msgid "OnePage 2"
+msgstr ""
+
+#: builder-presets/preset-data.php:42
+msgid "Journalist - About"
+msgstr ""
+
+#: builder-presets/preset-data.php:45
+msgid "Journalist - Contact"
+msgstr ""
+
+#: builder-presets/preset-data.php:48
+msgid "Journalist - Publications"
+msgstr ""
+
+#: classes/class-aq-block.php:41
+msgid ""
+"function AQ_Block::block should not be accessed directly. Output generated "
+"by the "
+msgstr ""
+
+#: classes/class-aq-block.php:71
+msgid "There are no options for this block."
+msgstr ""
+
+#: classes/class-aq-block.php:176 functions/page-functions.php:111
+#: functions/page-functions.php:375 plugs/mpb-column-block.php:132
+msgid "Remove"
+msgstr ""
+
+#: classes/class-aq-block.php:177
+msgid "Duplicate"
+msgstr ""
+
+#: classes/class-aq-block.php:179 plugs/mpb-column-block.php:135
+msgid "Edit"
+msgstr ""
+
+#: classes/class-aq-block.php:181
+msgid "Edit Column"
+msgstr ""
+
+#: classes/class-aq-block.php:183 plugs/mpb-column-block.php:138
+msgid "Export Block"
+msgstr ""
+
+#: classes/class-aq-block.php:224
+msgid "Block ID"
+msgstr ""
+
+#: classes/class-aq-block.php:225
+msgid "Enter a unique ID for this block."
+msgstr ""
+
+#: classes/class-aq-block.php:228 plugs/mpb-column-block.php:211
+msgid "Block Note"
+msgstr ""
+
+#: classes/class-aq-block.php:229 plugs/mpb-column-block.php:212
+msgid "Add a note for self - to identify this block."
+msgstr ""
+
+#: classes/class-aq-block.php:252 plugs/mpb-column-block.php:218
+#: view/view-settings-page.php:151
+msgid "Done"
+msgstr ""
+
+#: classes/class-aq-page-builder.php:25 classes/class-aq-page-builder.php:26
+msgid "Page Builder"
+msgstr ""
+
+#: classes/class-aq-page-builder.php:27 functions/aqpb_config.php:16
+msgid "aq-page-builder"
+msgstr ""
+
+#: classes/class-aq-page-builder.php:66 classes/class-aq-page-builder.php:67
+#: classes/class-aq-page-builder.php:68 classes/class-aq-page-builder.php:69
+#: functions/aqpb_config.php:14 functions/aqpb_config.php:15
+msgid "iMaginem Page Builder"
+msgstr ""
+
+#: classes/class-aq-page-builder.php:136
+msgid "Saving..."
+msgstr ""
+
+#: classes/class-aq-page-builder.php:137
+msgid "Retrieving..."
+msgstr ""
+
+#: classes/class-aq-page-builder.php:138
+msgid "New Template"
+msgstr ""
+
+#: classes/class-aq-page-builder.php:356 classes/class-aq-page-builder.php:550
+msgid "Drag and Drop blocks area."
+msgstr ""
+
+#: classes/class-aq-page-builder.php:485
+msgid "Live Search"
+msgstr ""
+
+#: classes/class-aq-page-builder.php:1136
+msgid "Please select your template first!"
+msgstr ""
+
+#: classes/class-aq-page-builder.php:1153
+#, php-format
+msgid "You don't have any template yet. Let's %s create %s one!"
+msgstr ""
+
+#: classes/class-aq-page-builder.php:1158
+msgid "Choose Your Page Template"
+msgstr ""
+
+#: functions/aqpb_blocks.php:222 plugs/mpb-column-block.php:105
+msgid "Drag block items into this box"
+msgstr ""
+
+#: functions/aqpb_config.php:21
+msgid ""
+"The page builder allows you to create custom page templates which you can "
+"later use for your pages."
+msgstr ""
+
+#: functions/aqpb_functions.php:122 functions/page-functions.php:86
+#: functions/page-functions.php:355
+msgid "Choose icon"
+msgstr ""
+
+#: functions/page-functions.php:87 functions/page-functions.php:356
+msgid "Remove icon"
+msgstr ""
+
+#: functions/page-functions.php:110 functions/page-functions.php:375
+msgid "Upload"
+msgstr ""
+
+#: functions/page-functions.php:131 functions/page-functions.php:474
+msgid ""
+"Enter P tags for new lines. eg. <code>&lt;p&gt;Line 1&lt;/p&gt;&lt;p&gt;Line "
+"2&lt;/p&gt;</code>"
+msgstr ""
+
+#: functions/page-functions.php:380
+msgid "select"
+msgstr ""
+
+#: functions/page-functions.php:392
+msgid "none"
+msgstr ""
+
+#: functions/page-functions.php:393
+msgid "fadeIn"
+msgstr ""
+
+#: functions/page-functions.php:394
+msgid "fadeInDown"
+msgstr ""
+
+#: functions/page-functions.php:395
+msgid "fadeInDownBig"
+msgstr ""
+
+#: functions/page-functions.php:396
+msgid "fadeInLeft"
+msgstr ""
+
+#: functions/page-functions.php:397
+msgid "fadeInLeftBig"
+msgstr ""
+
+#: functions/page-functions.php:398
+msgid "fadeInRight"
+msgstr ""
+
+#: functions/page-functions.php:399
+msgid "fadeInRightBig"
+msgstr ""
+
+#: functions/page-functions.php:400
+msgid "fadeInUp"
+msgstr ""
+
+#: functions/page-functions.php:401
+msgid "fadeInUpBig"
+msgstr ""
+
+#: functions/page-functions.php:721
+msgid ""
+"Drag block items from the left into this area to begin building your "
+"template."
+msgstr ""
+
+#: functions/page-functions.php:820 view/view-settings-page.php:275
+msgid "Select Template"
+msgstr ""
+
+#: page-builder.php:157
+msgid "Use Pagebuilder for this page"
+msgstr ""
+
+#: page-builder.php:160
+msgid "Using Page Builder."
+msgstr ""
+
+#: page-builder.php:160 page-builder.php:163
+msgid "Change"
+msgstr ""
+
+#: page-builder.php:163
+msgid "Using Editor."
+msgstr ""
+
+#: plugs/mpb-accordions.php:13
+msgid "Accordions"
+msgstr ""
+
+#: plugs/mpb-accordions.php:15 plugs/mpb-alerts.php:15 plugs/mpb-button.php:15
+#: plugs/mpb-callout.php:15 plugs/mpb-checklist.php:15
+#: plugs/mpb-circularcounter.php:15 plugs/mpb-displaycontent.php:15
+#: plugs/mpb-displayshortcode.php:16 plugs/mpb-fontawesome.php:15
+#: plugs/mpb-fromtocounter.php:15 plugs/mpb-gmap.php:15
+#: plugs/mpb-highlight.php:15 plugs/mpb-imagebox.php:15
+#: plugs/mpb-infoboxes.php:15 plugs/mpb-modal.php:15 plugs/mpb-pageshare.php:14
+#: plugs/mpb-pricing-service.php:14 plugs/mpb-pricingtable.php:15
+#: plugs/mpb-progressbar.php:15 plugs/mpb-pullquote.php:15
+#: plugs/mpb-richtext.php:15 plugs/mpb-sectionheading.php:16
+#: plugs/mpb-service-list.php:15 plugs/mpb-services.php:15
+#: plugs/mpb-socialicons.php:15 plugs/mpb-staff.php:15 plugs/mpb-tabs.php:15
+#: plugs/mpb-testimonials.php:15 plugs/mpb-textbox.php:15
+#: plugs/mpb-toggle.php:15
+msgid "Elements"
+msgstr ""
+
+#: plugs/mpb-accordions.php:16
+msgid "Add an accordion tab set"
+msgstr ""
+
+#: plugs/mpb-accordions.php:23
+msgid ""
+"Add accordions shortcode. You can add multiple accordion tab sections within "
+"this generator."
+msgstr ""
+
+#: plugs/mpb-accordions.php:25
+msgid "Insert Accordions Shortcode"
+msgstr ""
+
+#: plugs/mpb-accordions.php:30
+msgid "Accordion Tab to activate"
+msgstr ""
+
+#: plugs/mpb-accordions.php:31
+msgid "Set -1 to close all. 0 is the first, 1 for second and so on..."
+msgstr ""
+
+#: plugs/mpb-accordions.php:39 plugs/mpb-accordions.php:40
+#: plugs/mpb-callout.php:35 plugs/mpb-circularcounter.php:30
+#: plugs/mpb-fromtocounter.php:30 plugs/mpb-fromtocounter.php:31
+#: plugs/mpb-heroimage.php:105 plugs/mpb-heroimage.php:106
+#: plugs/mpb-heroimage.php:133 plugs/mpb-tabs.php:40 plugs/mpb-toggle.php:31
+msgid "Title"
+msgstr ""
+
+#: plugs/mpb-accordions.php:45 plugs/mpb-displaycontent.php:28
+#: plugs/mpb-displayshortcode.php:29 plugs/mpb-pricing-service.php:87
+#: plugs/mpb-richtext.php:28 plugs/mpb-sectionheading.php:72
+#: plugs/mpb-textbox.php:99
+msgid "Content"
+msgstr ""
+
+#: plugs/mpb-accordions.php:46
+msgid "Accordion Tab content"
+msgstr ""
+
+#: plugs/mpb-accordions.php:51
+msgid "+ Add Another Accordion Tab"
+msgstr ""
+
+#: plugs/mpb-accordions.php:68 plugs/mpb-accordions.php:136
+msgid "New Accordion Tab"
+msgstr ""
+
+#: plugs/mpb-accordions.php:69 plugs/mpb-accordions.php:137
+msgid "Accordion tab content"
+msgstr ""
+
+#: plugs/mpb-accordions.php:95 plugs/mpb-checklist.php:106
+#: plugs/mpb-heroimage.php:160 plugs/mpb-linkscarousel.php:127
+#: plugs/mpb-pricingtable.php:162 plugs/mpb-progressbar.php:112
+#: plugs/mpb-service-list.php:141 plugs/mpb-staff.php:144
+#: plugs/mpb-tabs.php:101 plugs/mpb-testimonials.php:127
+msgid "Add New"
+msgstr ""
+
+#: plugs/mpb-alerts.php:13
+msgid "Alert"
+msgstr ""
+
+#: plugs/mpb-alerts.php:16
+msgid "Add an alert message"
+msgstr ""
+
+#: plugs/mpb-alerts.php:25
+msgid "Generate alert messages using presets icons or custom icon."
+msgstr ""
+
+#: plugs/mpb-alerts.php:29
+msgid "Alert Type"
+msgstr ""
+
+#: plugs/mpb-alerts.php:30
+msgid "Select alert type"
+msgstr ""
+
+#: plugs/mpb-alerts.php:32
+msgid "Yellow"
+msgstr ""
+
+#: plugs/mpb-alerts.php:33
+msgid "Red"
+msgstr ""
+
+#: plugs/mpb-alerts.php:34
+msgid "Blue"
+msgstr ""
+
+#: plugs/mpb-alerts.php:35
+msgid "Green"
+msgstr ""
+
+#: plugs/mpb-alerts.php:39
+msgid "Alert Message"
+msgstr ""
+
+#: plugs/mpb-alerts.php:43
+msgid "Alert Text"
+msgstr ""
+
+#: plugs/mpb-alerts.php:44 plugs/mpb-circularcounter.php:31
+msgid "Add the alert's text"
+msgstr ""
+
+#: plugs/mpb-alerts.php:49 plugs/mpb-button.php:52 plugs/mpb-callout.php:48
+#: plugs/mpb-checklist.php:34 plugs/mpb-modal.php:58
+msgid "Select icon"
+msgstr ""
+
+#: plugs/mpb-alerts.php:50 plugs/mpb-button.php:53 plugs/mpb-callout.php:49
+#: plugs/mpb-checklist.php:35 plugs/mpb-modal.php:59
+msgid "Select an icon"
+msgstr ""
+
+#: plugs/mpb-alerts.php:56
+msgid "Insert Alert"
+msgstr ""
+
+#: plugs/mpb-audio.php:13
+msgid "Audio"
+msgstr ""
+
+#: plugs/mpb-audio.php:15 plugs/mpb-beforeafter.php:15
+#: plugs/mpb-heroimage.php:15 plugs/mpb-lightbox.php:15
+#: plugs/mpb-lightboxcarousel.php:13 plugs/mpb-linkscarousel.php:15
+#: plugs/mpb-metro-grid.php:13 plugs/mpb-photocard.php:15
+#: plugs/mpb-singleimage.php:15 plugs/mpb-slideshowcarousel.php:14
+#: plugs/mpb-thumbnail-grid.php:13 plugs/mpb-vimeovideo.php:15
+#: plugs/mpb-youtubevideo.php:15
+msgid "Media"
+msgstr ""
+
+#: plugs/mpb-audio.php:16
+msgid "Generate an HTML5 Audio player"
+msgstr ""
+
+#: plugs/mpb-audio.php:25
+msgid "Add HTML5 Audio Player"
+msgstr ""
+
+#: plugs/mpb-audio.php:30 plugs/mpb-audio.php:31
+msgid "Title of Audio"
+msgstr ""
+
+#: plugs/mpb-audio.php:36 plugs/mpb-audio.php:37
+msgid "MP3 url. File path"
+msgstr ""
+
+#: plugs/mpb-audio.php:42 plugs/mpb-audio.php:43
+msgid "M4A url. File path"
+msgstr ""
+
+#: plugs/mpb-audio.php:48 plugs/mpb-audio.php:49
+msgid "OGA url. File path"
+msgstr ""
+
+#: plugs/mpb-audio.php:53
+msgid "Insert Audio Player"
+msgstr ""
+
+#: plugs/mpb-beforeafter.php:13
+msgid "Before After Image"
+msgstr ""
+
+#: plugs/mpb-beforeafter.php:16
+msgid "Before and After block using two images"
+msgstr ""
+
+#: plugs/mpb-beforeafter.php:25
+msgid "Display Before and After Image blcok"
+msgstr ""
+
+#: plugs/mpb-beforeafter.php:30
+msgid "Choose image to appear as before"
+msgstr ""
+
+#: plugs/mpb-beforeafter.php:31
+msgid "Before image"
+msgstr ""
+
+#: plugs/mpb-beforeafter.php:36
+msgid "Choose image to appear as after"
+msgstr ""
+
+#: plugs/mpb-beforeafter.php:37
+msgid "After image"
+msgstr ""
+
+#: plugs/mpb-beforeafter.php:42
+msgid "Insert Before and After"
+msgstr ""
+
+#: plugs/mpb-blog-carousel.php:33
+msgid "Blog Carousel"
+msgstr ""
+
+#: plugs/mpb-blog-carousel.php:35 plugs/mpb-blog-column.php:35
+#: plugs/mpb-blog-grid.php:35 plugs/mpb-blog-list.php:35
+#: plugs/mpb-blog-listsmall.php:35 plugs/mpb-blog-slideshow.php:35
+#: plugs/mpb-blog-timeline.php:35
+msgid "Posts"
+msgstr ""
+
+#: plugs/mpb-blog-carousel.php:36
+msgid "Caroursel of blog posts"
+msgstr ""
+
+#: plugs/mpb-blog-carousel.php:47 plugs/mpb-blog-list.php:47
+msgid "Display bloglist."
+msgstr ""
+
+#: plugs/mpb-blog-carousel.php:51 plugs/mpb-linkscarousel.php:32
+msgid "Columns"
+msgstr ""
+
+#: plugs/mpb-blog-carousel.php:52 plugs/mpb-linkscarousel.php:33
+msgid "No. of Columns"
+msgstr ""
+
+#: plugs/mpb-blog-carousel.php:64 plugs/mpb-blog-carousel.php:65
+#: plugs/mpb-blog-column.php:51 plugs/mpb-blog-column.php:52
+#: plugs/mpb-blog-grid.php:50 plugs/mpb-blog-grid.php:51
+#: plugs/mpb-blog-list.php:51 plugs/mpb-blog-list.php:52
+#: plugs/mpb-blog-listsmall.php:51 plugs/mpb-blog-listsmall.php:52
+#: plugs/mpb-blog-timeline.php:50 plugs/mpb-blog-timeline.php:51
+msgid "Choose Category to list"
+msgstr ""
+
+#: plugs/mpb-blog-carousel.php:71 plugs/mpb-blog-column.php:58
+#: plugs/mpb-blog-grid.php:68 plugs/mpb-blog-list.php:58
+#: plugs/mpb-blog-listsmall.php:58 plugs/mpb-blog-timeline.php:57
+msgid "Comma seperated post types or a single post type."
+msgstr ""
+
+#: plugs/mpb-blog-carousel.php:72 plugs/mpb-blog-column.php:59
+#: plugs/mpb-blog-grid.php:69 plugs/mpb-blog-list.php:59
+#: plugs/mpb-blog-listsmall.php:59 plugs/mpb-blog-timeline.php:58
+msgid "audio,gallery,aside,quote,video,image,standard"
+msgstr ""
+
+#: plugs/mpb-blog-carousel.php:77 plugs/mpb-blog-column.php:112
+#: plugs/mpb-blog-grid.php:122 plugs/mpb-blog-list.php:73
+#: plugs/mpb-blog-listsmall.php:73 plugs/mpb-blog-timeline.php:111
+#: plugs/mpb-portfolio-grid.php:125 plugs/mpb-works-carousel.php:93
+msgid "Limit. -1 for unlimited"
+msgstr ""
+
+#: plugs/mpb-blog-carousel.php:78 plugs/mpb-blog-column.php:113
+#: plugs/mpb-blog-grid.php:123 plugs/mpb-blog-list.php:74
+#: plugs/mpb-blog-listsmall.php:74 plugs/mpb-blog-timeline.php:112
+#: plugs/mpb-portfolio-grid.php:126 plugs/mpb-works-carousel.php:94
+msgid "Limit items. -1 for unlimited"
+msgstr ""
+
+#: plugs/mpb-blog-carousel.php:82
+msgid "Display Blog Carousel"
+msgstr ""
+
+#: plugs/mpb-blog-column.php:33
+msgid "Blog post column"
+msgstr ""
+
+#: plugs/mpb-blog-column.php:36
+msgid "Add column of blog posts"
+msgstr ""
+
+#: plugs/mpb-blog-column.php:47 plugs/mpb-blog-grid.php:46
+msgid "A Grid based list of most recent blog posts."
+msgstr ""
+
+#: plugs/mpb-blog-column.php:63 plugs/mpb-blog-column.php:64
+#: plugs/mpb-blog-grid.php:73 plugs/mpb-blog-grid.php:74
+#: plugs/mpb-blog-timeline.php:62 plugs/mpb-blog-timeline.php:63
+#: plugs/mpb-portfolio-grid.php:106 plugs/mpb-portfolio-grid.php:107
+msgid "Display post title"
+msgstr ""
+
+#: plugs/mpb-blog-column.php:66 plugs/mpb-blog-column.php:75
+#: plugs/mpb-blog-column.php:96 plugs/mpb-blog-column.php:105
+#: plugs/mpb-blog-grid.php:76 plugs/mpb-blog-grid.php:85
+#: plugs/mpb-blog-grid.php:106 plugs/mpb-blog-grid.php:115
+#: plugs/mpb-blog-grid.php:130 plugs/mpb-blog-slideshow.php:68
+#: plugs/mpb-blog-timeline.php:74 plugs/mpb-blog-timeline.php:95
+#: plugs/mpb-blog-timeline.php:104 plugs/mpb-blog-timeline.php:119
+#: plugs/mpb-gmap.php:81 plugs/mpb-lightboxcarousel.php:37
+#: plugs/mpb-metro-grid.php:27 plugs/mpb-portfolio-grid.php:101
+#: plugs/mpb-portfolio-grid.php:109 plugs/mpb-portfolio-grid.php:118
+#: plugs/mpb-portfolio-grid.php:133 plugs/mpb-portfolio-slideshow.php:72
+#: plugs/mpb-slideshowcarousel.php:32 plugs/mpb-slideshowcarousel.php:43
+#: plugs/mpb-slideshowcarousel.php:52 plugs/mpb-thumbnail-grid.php:48
+#: plugs/mpb-thumbnail-grid.php:66 plugs/mpb-thumbnail-grid.php:74
+#: plugs/mpb-thumbnail-grid.php:83 plugs/mpb-works-carousel.php:64
+msgid "Yes"
+msgstr ""
+
+#: plugs/mpb-blog-column.php:67 plugs/mpb-blog-column.php:76
+#: plugs/mpb-blog-column.php:97 plugs/mpb-blog-column.php:106
+#: plugs/mpb-blog-grid.php:77 plugs/mpb-blog-grid.php:86
+#: plugs/mpb-blog-grid.php:107 plugs/mpb-blog-grid.php:116
+#: plugs/mpb-blog-grid.php:131 plugs/mpb-blog-slideshow.php:67
+#: plugs/mpb-blog-timeline.php:75 plugs/mpb-blog-timeline.php:96
+#: plugs/mpb-blog-timeline.php:105 plugs/mpb-blog-timeline.php:120
+#: plugs/mpb-gmap.php:82 plugs/mpb-lightboxcarousel.php:38
+#: plugs/mpb-metro-grid.php:26 plugs/mpb-portfolio-grid.php:100
+#: plugs/mpb-portfolio-grid.php:110 plugs/mpb-portfolio-grid.php:119
+#: plugs/mpb-portfolio-grid.php:134 plugs/mpb-portfolio-slideshow.php:71
+#: plugs/mpb-slideshowcarousel.php:33 plugs/mpb-slideshowcarousel.php:42
+#: plugs/mpb-slideshowcarousel.php:53 plugs/mpb-thumbnail-grid.php:47
+#: plugs/mpb-thumbnail-grid.php:65 plugs/mpb-thumbnail-grid.php:75
+#: plugs/mpb-thumbnail-grid.php:84 plugs/mpb-works-carousel.php:65
+msgid "No"
+msgstr ""
+
+#: plugs/mpb-blog-column.php:72 plugs/mpb-blog-column.php:73
+#: plugs/mpb-blog-grid.php:82 plugs/mpb-blog-grid.php:83
+#: plugs/mpb-blog-timeline.php:71 plugs/mpb-blog-timeline.php:72
+#: plugs/mpb-portfolio-grid.php:115 plugs/mpb-portfolio-grid.php:116
+msgid "Display Post description"
+msgstr ""
+
+#: plugs/mpb-blog-column.php:82 plugs/mpb-blog-column.php:83
+#: plugs/mpb-blog-grid.php:92 plugs/mpb-blog-grid.php:93
+#: plugs/mpb-blog-timeline.php:81 plugs/mpb-blog-timeline.php:82
+msgid "Excerpt length"
+msgstr ""
+
+#: plugs/mpb-blog-column.php:86 plugs/mpb-blog-grid.php:96
+#: plugs/mpb-blog-timeline.php:85
+msgid "Continue reading"
+msgstr ""
+
+#: plugs/mpb-blog-column.php:88 plugs/mpb-blog-column.php:89
+#: plugs/mpb-blog-grid.php:98 plugs/mpb-blog-grid.php:99
+#: plugs/mpb-blog-timeline.php:87 plugs/mpb-blog-timeline.php:88
+msgid "Read more text"
+msgstr ""
+
+#: plugs/mpb-blog-column.php:93 plugs/mpb-blog-column.php:94
+#: plugs/mpb-blog-grid.php:103 plugs/mpb-blog-grid.php:104
+#: plugs/mpb-blog-timeline.php:92 plugs/mpb-blog-timeline.php:93
+msgid "Display number of Comments"
+msgstr ""
+
+#: plugs/mpb-blog-column.php:102 plugs/mpb-blog-column.php:103
+#: plugs/mpb-blog-grid.php:112 plugs/mpb-blog-grid.php:113
+#: plugs/mpb-blog-timeline.php:101 plugs/mpb-blog-timeline.php:102
+msgid "Display age of post"
+msgstr ""
+
+#: plugs/mpb-blog-column.php:117
+msgid "Insert Recent Blog List box"
+msgstr ""
+
+#: plugs/mpb-blog-grid.php:33
+msgid "Blog post grid"
+msgstr ""
+
+#: plugs/mpb-blog-grid.php:36
+msgid "Display a grid of blog posts"
+msgstr ""
+
+#: plugs/mpb-blog-grid.php:56 plugs/mpb-lightboxcarousel.php:23
+#: plugs/mpb-portfolio-grid.php:86 plugs/mpb-thumbnail-grid.php:23
+#: plugs/mpb-works-carousel.php:70 plugs/mpb-worktype-albums.php:58
+msgid "Grid Columns"
+msgstr ""
+
+#: plugs/mpb-blog-grid.php:57 plugs/mpb-lightboxcarousel.php:24
+#: plugs/mpb-portfolio-grid.php:87 plugs/mpb-thumbnail-grid.php:24
+#: plugs/mpb-works-carousel.php:71 plugs/mpb-worktype-albums.php:59
+msgid "No. of Grid Columns"
+msgstr ""
+
+#: plugs/mpb-blog-grid.php:127 plugs/mpb-blog-grid.php:128
+#: plugs/mpb-blog-timeline.php:116 plugs/mpb-blog-timeline.php:117
+#: plugs/mpb-portfolio-grid.php:130 plugs/mpb-portfolio-grid.php:131
+msgid "Generate Pagination"
+msgstr ""
+
+#: plugs/mpb-blog-grid.php:136
+msgid "Insert Recent Blog"
+msgstr ""
+
+#: plugs/mpb-blog-list.php:33
+msgid "Blog List"
+msgstr ""
+
+#: plugs/mpb-blog-list.php:36
+msgid "Display a list of blog posts"
+msgstr ""
+
+#: plugs/mpb-blog-list.php:63 plugs/mpb-blog-list.php:64
+#: plugs/mpb-blog-listsmall.php:63 plugs/mpb-blog-listsmall.php:64
+msgid "Blog Time Align"
+msgstr ""
+
+#: plugs/mpb-blog-list.php:66 plugs/mpb-blog-listsmall.php:66
+#: plugs/mpb-button.php:38 plugs/mpb-modal.php:44 plugs/mpb-photocard.php:43
+#: plugs/mpb-sectionheading.php:50 plugs/mpb-singleimage.php:76
+msgid "Left"
+msgstr ""
+
+#: plugs/mpb-blog-list.php:67 plugs/mpb-blog-listsmall.php:67
+#: plugs/mpb-heroimage.php:83
+msgid "Top"
+msgstr ""
+
+#: plugs/mpb-blog-list.php:78
+msgid "Display Recent Blog List"
+msgstr ""
+
+#: plugs/mpb-blog-listsmall.php:33
+msgid "Blog List Small"
+msgstr ""
+
+#: plugs/mpb-blog-listsmall.php:36
+msgid "Display a blog in a small layout"
+msgstr ""
+
+#: plugs/mpb-blog-listsmall.php:47
+msgid "Display small bloglist."
+msgstr ""
+
+#: plugs/mpb-blog-listsmall.php:78
+msgid "Display Recent Blog List in Small layout"
+msgstr ""
+
+#: plugs/mpb-blog-slideshow.php:33
+msgid "Blog post Slideshow"
+msgstr ""
+
+#: plugs/mpb-blog-slideshow.php:36
+msgid "Display a slideshow of blog posts"
+msgstr ""
+
+#: plugs/mpb-blog-slideshow.php:46 plugs/mpb-blog-slideshow.php:82
+msgid "Add a slideshow of blog posts"
+msgstr ""
+
+#: plugs/mpb-blog-slideshow.php:51 plugs/mpb-portfolio-slideshow.php:55
+msgid "Limit posts"
+msgstr ""
+
+#: plugs/mpb-blog-slideshow.php:52 plugs/mpb-portfolio-slideshow.php:56
+msgid "Limit the number of posts"
+msgstr ""
+
+#: plugs/mpb-blog-slideshow.php:57
+msgid "Enter category slugs to list"
+msgstr ""
+
+#: plugs/mpb-blog-slideshow.php:58
+msgid ""
+"Leave blank to list all. Enter comma seperated blog categories. eg. artwork,"
+"photography,prints "
+msgstr ""
+
+#: plugs/mpb-blog-slideshow.php:64 plugs/mpb-blog-slideshow.php:65
+#: plugs/mpb-portfolio-slideshow.php:68 plugs/mpb-portfolio-slideshow.php:69
+#: plugs/mpb-slideshowcarousel.php:39 plugs/mpb-slideshowcarousel.php:40
+msgid "Autoplay slideshow"
+msgstr ""
+
+#: plugs/mpb-blog-slideshow.php:73 plugs/mpb-blog-slideshow.php:74
+#: plugs/mpb-portfolio-slideshow.php:77 plugs/mpb-portfolio-slideshow.php:78
+msgid "Slideshow transition"
+msgstr ""
+
+#: plugs/mpb-blog-slideshow.php:76 plugs/mpb-portfolio-slideshow.php:80
+msgid "fade"
+msgstr ""
+
+#: plugs/mpb-blog-slideshow.php:77 plugs/mpb-portfolio-slideshow.php:81
+msgid "slide"
+msgstr ""
+
+#: plugs/mpb-blog-timeline.php:36
+msgid "Generate a timeline of blog posts"
+msgstr ""
+
+#: plugs/mpb-blog-timeline.php:46
+msgid "Blog Timeline."
+msgstr ""
+
+#: plugs/mpb-blog-timeline.php:125
+msgid "Add Blog Timeline"
+msgstr ""
+
+#: plugs/mpb-button.php:13
+msgid "Button"
+msgstr ""
+
+#: plugs/mpb-button.php:16
+msgid "Generate a button"
+msgstr ""
+
+#: plugs/mpb-button.php:25 plugs/mpb-modal.php:25
+msgid "Add button."
+msgstr ""
+
+#: plugs/mpb-button.php:30 plugs/mpb-modal.php:36
+msgid "Button URL"
+msgstr ""
+
+#: plugs/mpb-button.php:31 plugs/mpb-modal.php:37
+msgid "Add the button's url eg http://example.com"
+msgstr ""
+
+#: plugs/mpb-button.php:35 plugs/mpb-modal.php:41
+msgid "Button Align"
+msgstr ""
+
+#: plugs/mpb-button.php:36 plugs/mpb-modal.php:42
+msgid "Button alignment"
+msgstr ""
+
+#: plugs/mpb-button.php:39 plugs/mpb-fontawesome.php:38 plugs/mpb-modal.php:45
+#: plugs/mpb-sectionheading.php:51 plugs/mpb-singleimage.php:77
+msgid "Center"
+msgstr ""
+
+#: plugs/mpb-button.php:40 plugs/mpb-fontawesome.php:37 plugs/mpb-modal.php:46
+#: plugs/mpb-photocard.php:44 plugs/mpb-sectionheading.php:52
+#: plugs/mpb-singleimage.php:78
+msgid "Right"
+msgstr ""
+
+#: plugs/mpb-button.php:46 plugs/mpb-button.php:47 plugs/mpb-callout.php:54
+#: plugs/mpb-callout.php:55 plugs/mpb-modal.php:52 plugs/mpb-modal.php:53
+msgid "Button color"
+msgstr ""
+
+#: plugs/mpb-button.php:58
+msgid "Button Target"
+msgstr ""
+
+#: plugs/mpb-button.php:59 plugs/mpb-imagebox.php:68
+msgid "_self = open in same window. _blank = open in new window"
+msgstr ""
+
+#: plugs/mpb-button.php:66 plugs/mpb-button.php:68 plugs/mpb-callout.php:60
+#: plugs/mpb-callout.php:61 plugs/mpb-modal.php:63 plugs/mpb-photocard.php:112
+#: plugs/mpb-photocard.php:113 plugs/mpb-pricing-service.php:81
+#: plugs/mpb-pricingtable.php:82 plugs/mpb-sectionheading.php:78
+#: plugs/mpb-sectionheading.php:79
+msgid "Button Text"
+msgstr ""
+
+#: plugs/mpb-button.php:69
+msgid "Add the button text"
+msgstr ""
+
+#: plugs/mpb-button.php:73
+msgid "Insert Button"
+msgstr ""
+
+#: plugs/mpb-callout.php:13
+msgid "Callout Box"
+msgstr ""
+
+#: plugs/mpb-callout.php:16
+msgid "Display a call to action message"
+msgstr ""
+
+#: plugs/mpb-callout.php:25
+msgid "Callout box."
+msgstr ""
+
+#: plugs/mpb-callout.php:29 plugs/mpb-callout.php:30 plugs/mpb-photocard.php:29
+#: plugs/mpb-photocard.php:30 plugs/mpb-pricing-service.php:32
+#: plugs/mpb-pricing-service.php:33 plugs/mpb-pricingtable.php:33
+#: plugs/mpb-pricingtable.php:34 plugs/mpb-pullquote.php:29
+#: plugs/mpb-pullquote.php:30 plugs/mpb-sectionheading.php:30
+#: plugs/mpb-sectionheading.php:31 plugs/mpb-service-list.php:33
+#: plugs/mpb-service-list.php:34 plugs/mpb-services.php:32
+#: plugs/mpb-services.php:33 plugs/mpb-singleimage.php:29
+#: plugs/mpb-singleimage.php:30 plugs/mpb-staff.php:33 plugs/mpb-staff.php:34
+msgid "Animation type"
+msgstr ""
+
+#: plugs/mpb-callout.php:36
+msgid "Title for Callout box"
+msgstr ""
+
+#: plugs/mpb-callout.php:42 plugs/mpb-callout.php:43
+msgid "Text for Callout"
+msgstr ""
+
+#: plugs/mpb-callout.php:66 plugs/mpb-callout.php:67
+msgid "Button Link"
+msgstr ""
+
+#: plugs/mpb-callout.php:71
+msgid "Insert Callout Box"
+msgstr ""
+
+#: plugs/mpb-checklist.php:13
+msgid "Checklist"
+msgstr ""
+
+#: plugs/mpb-checklist.php:16
+msgid "Add check lists"
+msgstr ""
+
+#: plugs/mpb-checklist.php:27
+msgid "Add Checklist."
+msgstr ""
+
+#: plugs/mpb-checklist.php:29
+msgid "Insert Checklist"
+msgstr ""
+
+#: plugs/mpb-checklist.php:41 plugs/mpb-service-list.php:48
+#: plugs/mpb-services.php:56
+msgid "Icon color"
+msgstr ""
+
+#: plugs/mpb-checklist.php:42
+msgid "Icon color in hex"
+msgstr ""
+
+#: plugs/mpb-checklist.php:50
+msgid "List a line"
+msgstr ""
+
+#: plugs/mpb-checklist.php:51
+msgid "You can add as many as you like."
+msgstr ""
+
+#: plugs/mpb-checklist.php:56
+msgid "+ Add Another Checklist Line"
+msgstr ""
+
+#: plugs/mpb-checklist.php:73 plugs/mpb-checklist.php:146
+msgid "Item"
+msgstr ""
+
+#: plugs/mpb-checklist.php:76
+msgid "Checklist Tab"
+msgstr ""
+
+#: plugs/mpb-circularcounter.php:13
+msgid "Circular Counter"
+msgstr ""
+
+#: plugs/mpb-circularcounter.php:16 plugs/mpb-circularcounter.php:25
+msgid "Generate Counters based on percentage"
+msgstr ""
+
+#: plugs/mpb-circularcounter.php:36 plugs/mpb-circularcounter.php:37
+msgid "Percentage"
+msgstr ""
+
+#: plugs/mpb-circularcounter.php:42
+msgid "Counter Size"
+msgstr ""
+
+#: plugs/mpb-circularcounter.php:43
+msgid "Counter size"
+msgstr ""
+
+#: plugs/mpb-circularcounter.php:48
+msgid "Border Size"
+msgstr ""
+
+#: plugs/mpb-circularcounter.php:49 plugs/mpb-textbox.php:53
+msgid "Border size"
+msgstr ""
+
+#: plugs/mpb-circularcounter.php:54 plugs/mpb-circularcounter.php:55
+msgid "Counter percent text size"
+msgstr ""
+
+#: plugs/mpb-circularcounter.php:60 plugs/mpb-circularcounter.php:61
+msgid "Foreground Color"
+msgstr ""
+
+#: plugs/mpb-circularcounter.php:66
+msgid "Background Color"
+msgstr ""
+
+#: plugs/mpb-circularcounter.php:67 plugs/mpb-column-block.php:73
+#: plugs/mpb-column-block.php:74 plugs/mpb-photocard.php:35
+#: plugs/mpb-photocard.php:36 plugs/mpb-textbox.php:30 plugs/mpb-textbox.php:31
+msgid "Background color"
+msgstr ""
+
+#: plugs/mpb-circularcounter.php:72
+msgid "Counter description"
+msgstr ""
+
+#: plugs/mpb-circularcounter.php:73
+msgid "Counter Description"
+msgstr ""
+
+#: plugs/mpb-circularcounter.php:78
+msgid "Insert Counter"
+msgstr ""
+
+#: plugs/mpb-column-block.php:11 plugs/mpb-column-block.php:19
+msgid "Column Container"
+msgstr ""
+
+#: plugs/mpb-column-block.php:13 plugs/mpb-dividers.php:15
+#: plugs/mpb-hline.php:15
+msgid "Layout"
+msgstr ""
+
+#: plugs/mpb-column-block.php:14
+msgid "Add a Column"
+msgstr ""
+
+#: plugs/mpb-column-block.php:23
+msgid "Boxed or Fullwidth"
+msgstr ""
+
+#: plugs/mpb-column-block.php:24
+msgid "Boxed or Fullwidth. For full columns"
+msgstr ""
+
+#: plugs/mpb-column-block.php:26
+msgid "Boxed"
+msgstr ""
+
+#: plugs/mpb-column-block.php:27 plugs/mpb-singleimage.php:79
+msgid "Fullwidth"
+msgstr ""
+
+#: plugs/mpb-column-block.php:32
+msgid "Text Intensity"
+msgstr ""
+
+#: plugs/mpb-column-block.php:33
+msgid "Text Intensity for headings types"
+msgstr ""
+
+#: plugs/mpb-column-block.php:35 plugs/mpb-dividers.php:48
+#: plugs/mpb-heroimage.php:39 plugs/mpb-photocard.php:82
+msgid "Default"
+msgstr ""
+
+#: plugs/mpb-column-block.php:36 plugs/mpb-dividers.php:50
+#: plugs/mpb-heroimage.php:41 plugs/mpb-photocard.php:83
+msgid "Dark"
+msgstr ""
+
+#: plugs/mpb-column-block.php:37 plugs/mpb-dividers.php:49
+#: plugs/mpb-heroimage.php:40 plugs/mpb-photocard.php:84
+msgid "Bright"
+msgstr ""
+
+#: plugs/mpb-column-block.php:43 plugs/mpb-column-block.php:44
+#: plugs/mpb-textbox.php:65 plugs/mpb-textbox.php:66
+msgid "Margin top in pixels"
+msgstr ""
+
+#: plugs/mpb-column-block.php:49 plugs/mpb-column-block.php:50
+#: plugs/mpb-textbox.php:71 plugs/mpb-textbox.php:72
+msgid "Margin bottom in pixels"
+msgstr ""
+
+#: plugs/mpb-column-block.php:55 plugs/mpb-column-block.php:56
+#: plugs/mpb-textbox.php:83 plugs/mpb-textbox.php:84
+msgid "Padding top in pixels"
+msgstr ""
+
+#: plugs/mpb-column-block.php:61 plugs/mpb-column-block.php:62
+#: plugs/mpb-textbox.php:89 plugs/mpb-textbox.php:90
+msgid "Padding bottom in pixels"
+msgstr ""
+
+#: plugs/mpb-column-block.php:67 plugs/mpb-column-block.php:68
+#: plugs/mpb-textbox.php:95 plugs/mpb-textbox.php:96
+msgid "Padding sides in pixels"
+msgstr ""
+
+#: plugs/mpb-column-block.php:79 plugs/mpb-column-block.php:80
+msgid "Background Image"
+msgstr ""
+
+#: plugs/mpb-column-block.php:84 plugs/mpb-column-block.php:85
+msgid "Scroll effect"
+msgstr ""
+
+#: plugs/mpb-column-block.php:87
+msgid "Parallax"
+msgstr ""
+
+#: plugs/mpb-column-block.php:88
+msgid "Static"
+msgstr ""
+
+#: plugs/mpb-column-block.php:93
+msgid "Container"
+msgstr ""
+
+#: plugs/mpb-column-block.php:154
+msgid "Drag block items into this container"
+msgstr ""
+
+#: plugs/mpb-column-block.php:208
+msgid "Column ID"
+msgstr ""
+
+#: plugs/mpb-column-block.php:209
+msgid "Enter a unique ID for this column."
+msgstr ""
+
+#: plugs/mpb-displaycontent.php:13
+msgid "Page Content"
+msgstr ""
+
+#: plugs/mpb-displaycontent.php:16
+msgid "Add Page Content"
+msgstr ""
+
+#: plugs/mpb-displaycontent.php:25 plugs/mpb-displaycontent.php:30
+#: plugs/mpb-displaycontent.php:36 plugs/mpb-pageshare.php:24
+#: plugs/mpb-richtext.php:25 plugs/mpb-textbox.php:25
+msgid "Add Content"
+msgstr ""
+
+#: plugs/mpb-displaycontent.php:31
+msgid "Displays current page contents. No settings required for this block."
+msgstr ""
+
+#: plugs/mpb-displayshortcode.php:14 plugs/mpb-displayshortcode.php:31
+msgid "Shortcode"
+msgstr ""
+
+#: plugs/mpb-displayshortcode.php:17
+msgid "Use to add shortcodes"
+msgstr ""
+
+#: plugs/mpb-displayshortcode.php:26 plugs/mpb-displayshortcode.php:37
+msgid "Add Shortcode"
+msgstr ""
+
+#: plugs/mpb-displayshortcode.php:32
+msgid "Shortcode to generate"
+msgstr ""
+
+#: plugs/mpb-dividers.php:13
+msgid "Dividers"
+msgstr ""
+
+#: plugs/mpb-dividers.php:16
+msgid "Add a divider"
+msgstr ""
+
+#: plugs/mpb-dividers.php:25
+msgid "Display Dividers. Blanks and minimal decorations."
+msgstr ""
+
+#: plugs/mpb-dividers.php:29 plugs/mpb-dividers.php:30
+msgid "Choose Divider"
+msgstr ""
+
+#: plugs/mpb-dividers.php:32
+msgid "blank"
+msgstr ""
+
+#: plugs/mpb-dividers.php:33
+msgid "line"
+msgstr ""
+
+#: plugs/mpb-dividers.php:34
+msgid "double"
+msgstr ""
+
+#: plugs/mpb-dividers.php:35
+msgid "stripes"
+msgstr ""
+
+#: plugs/mpb-dividers.php:36
+msgid "thinfade"
+msgstr ""
+
+#: plugs/mpb-dividers.php:37
+msgid "threelines"
+msgstr ""
+
+#: plugs/mpb-dividers.php:38
+msgid "circleline"
+msgstr ""
+
+#: plugs/mpb-dividers.php:39
+msgid "stripedcenter"
+msgstr ""
+
+#: plugs/mpb-dividers.php:40
+msgid "linedcenter"
+msgstr ""
+
+#: plugs/mpb-dividers.php:45 plugs/mpb-dividers.php:46
+msgid "Divider Type"
+msgstr ""
+
+#: plugs/mpb-dividers.php:56 plugs/mpb-hline.php:53
+msgid "Top Space in pixels"
+msgstr ""
+
+#: plugs/mpb-dividers.php:57 plugs/mpb-hline.php:54
+#: plugs/mpb-sectionheading.php:97
+msgid "Top Spacing"
+msgstr ""
+
+#: plugs/mpb-dividers.php:62 plugs/mpb-hline.php:59
+msgid "Bottom Space pixels"
+msgstr ""
+
+#: plugs/mpb-dividers.php:63 plugs/mpb-hline.php:60
+#: plugs/mpb-sectionheading.php:103
+msgid "Bottom Spacing"
+msgstr ""
+
+#: plugs/mpb-dividers.php:67
+msgid "Insert Divider"
+msgstr ""
+
+#: plugs/mpb-fontawesome.php:13
+msgid "Icon Generator"
+msgstr ""
+
+#: plugs/mpb-fontawesome.php:16
+msgid "Add an icon from a selectable set"
+msgstr ""
+
+#: plugs/mpb-fontawesome.php:21
+msgid "Add Fontawesome icons"
+msgstr ""
+
+#: plugs/mpb-fontawesome.php:26 plugs/mpb-fromtocounter.php:48
+#: plugs/mpb-imagebox.php:55
+msgid "Select Icon"
+msgstr ""
+
+#: plugs/mpb-fontawesome.php:27 plugs/mpb-imagebox.php:56
+msgid "Click an icon to select"
+msgstr ""
+
+#: plugs/mpb-fontawesome.php:33
+msgid "Icon in Circle"
+msgstr ""
+
+#: plugs/mpb-fontawesome.php:34
+msgid "Choose to display the icon in a circle"
+msgstr ""
+
+#: plugs/mpb-fontawesome.php:36
+msgid "default"
+msgstr ""
+
+#: plugs/mpb-fontawesome.php:44
+msgid "Size of Icon"
+msgstr ""
+
+#: plugs/mpb-fontawesome.php:45
+msgid "Select the size of the icon"
+msgstr ""
+
+#: plugs/mpb-fontawesome.php:50 plugs/mpb-fromtocounter.php:55
+msgid "Icon Color"
+msgstr ""
+
+#: plugs/mpb-fontawesome.php:51 plugs/mpb-fromtocounter.php:56
+msgid "Leave blank for default"
+msgstr ""
+
+#: plugs/mpb-fontawesome.php:55
+msgid "icongenerator Shortcode"
+msgstr ""
+
+#: plugs/mpb-fromtocounter.php:13
+msgid "From-To Counter"
+msgstr ""
+
+#: plugs/mpb-fromtocounter.php:16
+msgid "Add From to Counter"
+msgstr ""
+
+#: plugs/mpb-fromtocounter.php:25
+msgid "Add From-To Count blocks"
+msgstr ""
+
+#: plugs/mpb-fromtocounter.php:28 plugs/mpb-service-list.php:68
+msgid "Fusce Magna Elit"
+msgstr ""
+
+#: plugs/mpb-fromtocounter.php:34
+msgid "Count description text"
+msgstr ""
+
+#: plugs/mpb-fromtocounter.php:36 plugs/mpb-fromtocounter.php:37
+msgid "Description"
+msgstr ""
+
+#: plugs/mpb-fromtocounter.php:42 plugs/mpb-fromtocounter.php:43
+msgid "Count to"
+msgstr ""
+
+#: plugs/mpb-fromtocounter.php:49
+msgid "Click an icon to select, click again to deselect"
+msgstr ""
+
+#: plugs/mpb-fromtocounter.php:60
+msgid "From-To Count Shortcode"
+msgstr ""
+
+#: plugs/mpb-gmap.php:13
+msgid "Google Map"
+msgstr ""
+
+#: plugs/mpb-gmap.php:16
+msgid "Add a Google Map"
+msgstr ""
+
+#: plugs/mpb-gmap.php:24 plugs/mpb-gmap.php:123
+msgid "Add Google Maps"
+msgstr ""
+
+#: plugs/mpb-gmap.php:28 plugs/mpb-gmap.php:29
+msgid "Map Type"
+msgstr ""
+
+#: plugs/mpb-gmap.php:31
+msgid "roadmap"
+msgstr ""
+
+#: plugs/mpb-gmap.php:32
+msgid "satellite"
+msgstr ""
+
+#: plugs/mpb-gmap.php:33
+msgid "hybrid"
+msgstr ""
+
+#: plugs/mpb-gmap.php:34
+msgid "terrain"
+msgstr ""
+
+#: plugs/mpb-gmap.php:39 plugs/mpb-gmap.php:40
+msgid "Map Style"
+msgstr ""
+
+#: plugs/mpb-gmap.php:42
+msgid "Desaturated"
+msgstr ""
+
+#: plugs/mpb-gmap.php:43
+msgid "Light Dream"
+msgstr ""
+
+#: plugs/mpb-gmap.php:44
+msgid "Shades of Grey"
+msgstr ""
+
+#: plugs/mpb-gmap.php:45
+msgid "Apple Maps"
+msgstr ""
+
+#: plugs/mpb-gmap.php:46
+msgid "Light Monochrome"
+msgstr ""
+
+#: plugs/mpb-gmap.php:47
+msgid "Map Box"
+msgstr ""
+
+#: plugs/mpb-gmap.php:48
+msgid "Gowalla"
+msgstr ""
+
+#: plugs/mpb-gmap.php:49
+msgid "Clean Cut"
+msgstr ""
+
+#: plugs/mpb-gmap.php:55 plugs/mpb-gmap.php:56
+msgid "Map Address"
+msgstr ""
+
+#: plugs/mpb-gmap.php:61 plugs/mpb-gmap.php:62 plugs/mpb-gmap.php:89
+msgid "Map Height"
+msgstr ""
+
+#: plugs/mpb-gmap.php:67
+msgid "Map Latitude"
+msgstr ""
+
+#: plugs/mpb-gmap.php:68
+msgid "Set 0 if you want to don't want to use the field. Map Latitude"
+msgstr ""
+
+#: plugs/mpb-gmap.php:73
+msgid "Map Longitude"
+msgstr ""
+
+#: plugs/mpb-gmap.php:74
+msgid "Set 0 if you want to don't want to use the field. Map Longitude"
+msgstr ""
+
+#: plugs/mpb-gmap.php:78 plugs/mpb-gmap.php:79
+msgid "Map Marker"
+msgstr ""
+
+#: plugs/mpb-gmap.php:88
+msgid "Map Zoom (1 to 20)"
+msgstr ""
+
+#: plugs/mpb-gmap.php:93 plugs/mpb-gmap.php:94
+msgid "Mouse Scroll"
+msgstr ""
+
+#: plugs/mpb-gmap.php:96 plugs/mpb-gmap.php:105 plugs/mpb-vimeovideo.php:50
+#: plugs/mpb-youtubevideo.php:50 plugs/mpb-youtubevideo.php:59
+msgid "True"
+msgstr ""
+
+#: plugs/mpb-gmap.php:97 plugs/mpb-gmap.php:106 plugs/mpb-vimeovideo.php:51
+#: plugs/mpb-youtubevideo.php:51 plugs/mpb-youtubevideo.php:60
+msgid "False"
+msgstr ""
+
+#: plugs/mpb-gmap.php:102 plugs/mpb-gmap.php:103
+msgid "Map Controls"
+msgstr ""
+
+#: plugs/mpb-gmap.php:112 plugs/mpb-gmap.php:113
+msgid "Image as marker"
+msgstr ""
+
+#: plugs/mpb-gmap.php:116
+msgid "Marker Text"
+msgstr ""
+
+#: plugs/mpb-gmap.php:118 plugs/mpb-gmap.php:119
+msgid "Marker text"
+msgstr ""
+
+#: plugs/mpb-heroimage.php:13
+msgid "Hero Image"
+msgstr ""
+
+#: plugs/mpb-heroimage.php:16
+msgid "Add a Hero Image"
+msgstr ""
+
+#: plugs/mpb-heroimage.php:23
+msgid "Display Hero image"
+msgstr ""
+
+#: plugs/mpb-heroimage.php:25
+msgid "Generate a Hero image"
+msgstr ""
+
+#: plugs/mpb-heroimage.php:30 plugs/mpb-linkscarousel.php:67
+#: plugs/mpb-photocard.php:50 plugs/mpb-photocard.php:74 plugs/mpb-staff.php:57
+#: plugs/mpb-testimonials.php:60
+msgid "Add image"
+msgstr ""
+
+#: plugs/mpb-heroimage.php:31
+msgid "Upload an image"
+msgstr ""
+
+#: plugs/mpb-heroimage.php:36 plugs/mpb-heroimage.php:37
+msgid "Intensity for Text and ui elements"
+msgstr ""
+
+#: plugs/mpb-heroimage.php:47
+msgid "Hero image assist text"
+msgstr ""
+
+#: plugs/mpb-heroimage.php:48
+msgid "Text to display. Displays as a title on bottom of hero image"
+msgstr ""
+
+#: plugs/mpb-heroimage.php:53 plugs/mpb-imagebox.php:62
+#: plugs/mpb-imagebox.php:63 plugs/mpb-infoboxes.php:44
+#: plugs/mpb-linkscarousel.php:55 plugs/mpb-linkscarousel.php:56
+#: plugs/mpb-service-list.php:76 plugs/mpb-services.php:81
+#: plugs/mpb-singleimage.php:47 plugs/mpb-singleimage.php:48
+#: plugs/mpb-staff.php:86
+msgid "Link"
+msgstr ""
+
+#: plugs/mpb-heroimage.php:54
+msgid "Link for hero image navigation"
+msgstr ""
+
+#: plugs/mpb-heroimage.php:59 plugs/mpb-heroimage.php:60
+msgid "Display icon"
+msgstr ""
+
+#: plugs/mpb-heroimage.php:62 plugs/mpb-service-list.php:42
+#: plugs/mpb-services.php:50
+msgid "Enable"
+msgstr ""
+
+#: plugs/mpb-heroimage.php:63 plugs/mpb-heroimage.php:96
+#: plugs/mpb-service-list.php:41 plugs/mpb-services.php:49
+msgid "Disable"
+msgstr ""
+
+#: plugs/mpb-heroimage.php:69 plugs/mpb-heroimage.php:70
+msgid "Text decoration"
+msgstr ""
+
+#: plugs/mpb-heroimage.php:72
+msgid "None"
+msgstr ""
+
+#: plugs/mpb-heroimage.php:73
+msgid "Border"
+msgstr ""
+
+#: plugs/mpb-heroimage.php:74
+msgid "Border Top Bottom"
+msgstr ""
+
+#: plugs/mpb-heroimage.php:80 plugs/mpb-heroimage.php:81
+msgid "Text Location"
+msgstr ""
+
+#: plugs/mpb-heroimage.php:84
+msgid "Middle"
+msgstr ""
+
+#: plugs/mpb-heroimage.php:85
+msgid "Bottom"
+msgstr ""
+
+#: plugs/mpb-heroimage.php:91
+msgid "Text display."
+msgstr ""
+
+#: plugs/mpb-heroimage.php:92
+msgid "Display slideshow of text."
+msgstr ""
+
+#: plugs/mpb-heroimage.php:94
+msgid "Single text"
+msgstr ""
+
+#: plugs/mpb-heroimage.php:95 plugs/mpb-slideshowcarousel.php:12
+msgid "Slideshow"
+msgstr ""
+
+#: plugs/mpb-heroimage.php:111 plugs/mpb-heroimage.php:112
+#: plugs/mpb-heroimage.php:134
+msgid "Subtitle"
+msgstr ""
+
+#: plugs/mpb-heroimage.php:116
+msgid "+ Add another hero title"
+msgstr ""
+
+#: plugs/mpb-highlight.php:13
+msgid "Highlight"
+msgstr ""
+
+#: plugs/mpb-highlight.php:16
+msgid "Add highlight"
+msgstr ""
+
+#: plugs/mpb-highlight.php:25
+msgid "Highlight texts"
+msgstr ""
+
+#: plugs/mpb-highlight.php:30 plugs/mpb-highlight.php:31
+msgid "Text to hightlight"
+msgstr ""
+
+#: plugs/mpb-highlight.php:36
+msgid "Insert Highlighted text"
+msgstr ""
+
+#: plugs/mpb-hline.php:13
+msgid "Horizontal Line"
+msgstr ""
+
+#: plugs/mpb-hline.php:16
+msgid "Add a horizontal line"
+msgstr ""
+
+#: plugs/mpb-hline.php:25
+msgid "Display a horizontal line."
+msgstr ""
+
+#: plugs/mpb-hline.php:29 plugs/mpb-hline.php:30
+msgid "Choose Line style"
+msgstr ""
+
+#: plugs/mpb-hline.php:32
+msgid "Single"
+msgstr ""
+
+#: plugs/mpb-hline.php:33 plugs/mpb-textbox.php:45
+msgid "Double"
+msgstr ""
+
+#: plugs/mpb-hline.php:34 plugs/mpb-textbox.php:46
+msgid "Dotted"
+msgstr ""
+
+#: plugs/mpb-hline.php:35 plugs/mpb-textbox.php:47
+msgid "Dashed"
+msgstr ""
+
+#: plugs/mpb-hline.php:41 plugs/mpb-hline.php:42
+msgid "Line color"
+msgstr ""
+
+#: plugs/mpb-hline.php:47 plugs/mpb-hline.php:48 plugs/mpb-vimeovideo.php:42
+#: plugs/mpb-vimeovideo.php:43 plugs/mpb-youtubevideo.php:42
+#: plugs/mpb-youtubevideo.php:43
+msgid "Height in pixels"
+msgstr ""
+
+#: plugs/mpb-hline.php:64
+msgid "Add horizontal line"
+msgstr ""
+
+#: plugs/mpb-imagebox.php:13
+msgid "Image Boxes"
+msgstr ""
+
+#: plugs/mpb-imagebox.php:16 plugs/mpb-infoboxes.php:16
+msgid "Add an information box with text,image and link"
+msgstr ""
+
+#: plugs/mpb-imagebox.php:25
+msgid ""
+"Add image box columns. You can add multiple information items from this "
+"generator as well as sort them before adding to contents editor."
+msgstr ""
+
+#: plugs/mpb-imagebox.php:27 plugs/mpb-infoboxes.php:27
+msgid "Generate Info boxes Shortcode"
+msgstr ""
+
+#: plugs/mpb-imagebox.php:30
+msgid "Title of the image box"
+msgstr ""
+
+#: plugs/mpb-imagebox.php:32 plugs/mpb-infoboxes.php:32
+#: plugs/mpb-service-list.php:70 plugs/mpb-services.php:75
+msgid "Service Title"
+msgstr ""
+
+#: plugs/mpb-imagebox.php:33 plugs/mpb-infoboxes.php:30
+#: plugs/mpb-infoboxes.php:33
+msgid "Title of the info box"
+msgstr ""
+
+#: plugs/mpb-imagebox.php:37 plugs/mpb-imagebox.php:38
+msgid "Display title and description"
+msgstr ""
+
+#: plugs/mpb-imagebox.php:49 plugs/mpb-imagebox.php:50
+#: plugs/mpb-infoboxes.php:38 plugs/mpb-infoboxes.php:39
+#: plugs/mpb-singleimage.php:62 plugs/mpb-singleimage.php:63
+msgid "Image URL"
+msgstr ""
+
+#: plugs/mpb-imagebox.php:67
+msgid "Link Target"
+msgstr ""
+
+#: plugs/mpb-imagebox.php:75 plugs/mpb-infoboxes.php:54
+#: plugs/mpb-service-list.php:80 plugs/mpb-services.php:91
+msgid ""
+"Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Cras "
+"mattis consectetur purus sit amet fermentum."
+msgstr ""
+
+#: plugs/mpb-imagebox.php:77 plugs/mpb-infoboxes.php:56
+#: plugs/mpb-service-list.php:82 plugs/mpb-services.php:93
+msgid "Service Content"
+msgstr ""
+
+#: plugs/mpb-imagebox.php:78 plugs/mpb-infoboxes.php:57
+#: plugs/mpb-service-list.php:83 plugs/mpb-services.php:94
+msgid "Add the service content"
+msgstr ""
+
+#: plugs/mpb-infoboxes.php:13
+msgid "Info Boxes"
+msgstr ""
+
+#: plugs/mpb-infoboxes.php:25
+msgid ""
+"Add Information columns. You can add multiple information items from this "
+"generator as well as sort them before adding to contents editor."
+msgstr ""
+
+#: plugs/mpb-infoboxes.php:45 plugs/mpb-service-list.php:77
+#: plugs/mpb-services.php:82
+msgid "Link to title"
+msgstr ""
+
+#: plugs/mpb-infoboxes.php:50 plugs/mpb-infoboxes.php:51
+#: plugs/mpb-services.php:87 plugs/mpb-services.php:88
+msgid "Text for link"
+msgstr ""
+
+#: plugs/mpb-lightbox.php:13
+msgid "Lightbox"
+msgstr ""
+
+#: plugs/mpb-lightbox.php:16
+msgid "Add an Image Lightbox"
+msgstr ""
+
+#: plugs/mpb-lightbox.php:25
+msgid "Display lightboxes"
+msgstr ""
+
+#: plugs/mpb-lightbox.php:30 plugs/mpb-lightbox.php:31
+msgid "Lightbox image title"
+msgstr ""
+
+#: plugs/mpb-lightbox.php:36
+msgid "Lightbox image"
+msgstr ""
+
+#: plugs/mpb-lightbox.php:37
+msgid ""
+"Lightbox image. Entering a Video url will disable image lightbox and display "
+"video instead."
+msgstr ""
+
+#: plugs/mpb-lightbox.php:42
+msgid "Lightbox video url"
+msgstr ""
+
+#: plugs/mpb-lightbox.php:43
+msgid ""
+"Lightbox video. Enter a youtube or vimeo video url here for videos. eg: "
+"<code>http://www.youtube.com/watch?v=D78TYCEG4 , http://vimeo.com/172881</"
+"code>"
+msgstr ""
+
+#: plugs/mpb-lightbox.php:48 plugs/mpb-lightbox.php:49
+msgid "Thumbnail image"
+msgstr ""
+
+#: plugs/mpb-lightbox.php:53
+msgid "Image Alignment"
+msgstr ""
+
+#: plugs/mpb-lightbox.php:54
+msgid "Alignment of image"
+msgstr ""
+
+#: plugs/mpb-lightbox.php:56 plugs/mpb-photocard.php:93
+#: plugs/mpb-pullquote.php:44 plugs/mpb-services.php:41
+#: plugs/mpb-socialicons.php:35
+msgid "left"
+msgstr ""
+
+#: plugs/mpb-lightbox.php:57 plugs/mpb-photocard.php:94
+#: plugs/mpb-pullquote.php:45 plugs/mpb-socialicons.php:36
+msgid "right"
+msgstr ""
+
+#: plugs/mpb-lightbox.php:58 plugs/mpb-photocard.php:92
+#: plugs/mpb-pullquote.php:46
+msgid "center"
+msgstr ""
+
+#: plugs/mpb-lightbox.php:64
+msgid "Insert Lightbox"
+msgstr ""
+
+#: plugs/mpb-lightboxcarousel.php:11
+msgid "Lightbox Carousel"
+msgstr ""
+
+#: plugs/mpb-lightboxcarousel.php:14
+msgid "Display Carousel with lightboxes"
+msgstr ""
+
+#: plugs/mpb-lightboxcarousel.php:19 plugs/mpb-thumbnail-grid.php:19
+msgid "Generate a Thumbnail grid using image attachments"
+msgstr ""
+
+#: plugs/mpb-lightboxcarousel.php:34 plugs/mpb-thumbnail-grid.php:62
+#: plugs/mpb-works-carousel.php:61
+msgid "Box Title"
+msgstr ""
+
+#: plugs/mpb-lightboxcarousel.php:35 plugs/mpb-thumbnail-grid.php:63
+#: plugs/mpb-works-carousel.php:62
+msgid "Display title inside box on hover"
+msgstr ""
+
+#: plugs/mpb-lightboxcarousel.php:43 plugs/mpb-lightboxcarousel.php:44
+#: plugs/mpb-portfolio-grid.php:67 plugs/mpb-portfolio-grid.php:68
+#: plugs/mpb-thumbnail-grid.php:34 plugs/mpb-thumbnail-grid.php:35
+#: plugs/mpb-works-carousel.php:83 plugs/mpb-works-carousel.php:84
+#: plugs/mpb-worktype-albums.php:69 plugs/mpb-worktype-albums.php:70
+msgid "Image orientation format"
+msgstr ""
+
+#: plugs/mpb-lightboxcarousel.php:46 plugs/mpb-portfolio-grid.php:70
+#: plugs/mpb-thumbnail-grid.php:37 plugs/mpb-works-carousel.php:86
+#: plugs/mpb-worktype-albums.php:72
+msgid "Landscape"
+msgstr ""
+
+#: plugs/mpb-lightboxcarousel.php:47 plugs/mpb-portfolio-grid.php:71
+#: plugs/mpb-thumbnail-grid.php:38 plugs/mpb-works-carousel.php:87
+#: plugs/mpb-worktype-albums.php:73
+msgid "Portrait"
+msgstr ""
+
+#: plugs/mpb-lightboxcarousel.php:52 plugs/mpb-lightboxcarousel.php:53
+#: plugs/mpb-metro-grid.php:32 plugs/mpb-metro-grid.php:33
+#: plugs/mpb-slideshowcarousel.php:24 plugs/mpb-slideshowcarousel.php:25
+#: plugs/mpb-thumbnail-grid.php:89 plugs/mpb-thumbnail-grid.php:90
+msgid "Add images"
+msgstr ""
+
+#: plugs/mpb-lightboxcarousel.php:57
+msgid "Insert Lightbox carousel"
+msgstr ""
+
+#: plugs/mpb-linkscarousel.php:13
+msgid "Links Carousel"
+msgstr ""
+
+#: plugs/mpb-linkscarousel.php:16
+msgid "Display a caroulse of linked images"
+msgstr ""
+
+#: plugs/mpb-linkscarousel.php:26
+msgid "Generates a carousel of images."
+msgstr ""
+
+#: plugs/mpb-linkscarousel.php:28
+msgid "Insert carousel Shortcode"
+msgstr ""
+
+#: plugs/mpb-linkscarousel.php:49 plugs/mpb-linkscarousel.php:50
+#: plugs/mpb-linkscarousel.php:92 plugs/mpb-linkscarousel.php:161
+msgid "Name"
+msgstr ""
+
+#: plugs/mpb-linkscarousel.php:61 plugs/mpb-linkscarousel.php:62
+#: plugs/mpb-testimonials.php:54 plugs/mpb-testimonials.php:55
+msgid "Image"
+msgstr ""
+
+#: plugs/mpb-linkscarousel.php:68 plugs/mpb-photocard.php:51
+#: plugs/mpb-photocard.php:75 plugs/mpb-staff.php:58
+#: plugs/mpb-testimonials.php:61
+msgid "Upload image"
+msgstr ""
+
+#: plugs/mpb-linkscarousel.php:73
+msgid "+ Add Carousel item"
+msgstr ""
+
+#: plugs/mpb-linkscarousel.php:97
+msgid "Carousel Tab"
+msgstr ""
+
+#: plugs/mpb-metro-grid.php:11
+msgid "Metro Grid"
+msgstr ""
+
+#: plugs/mpb-metro-grid.php:14
+msgid "Display Metro Grid"
+msgstr ""
+
+#: plugs/mpb-metro-grid.php:19
+msgid "Generate a Metro grid using image attachments"
+msgstr ""
+
+#: plugs/mpb-metro-grid.php:23 plugs/mpb-thumbnail-grid.php:44
+msgid "On scroll animated"
+msgstr ""
+
+#: plugs/mpb-metro-grid.php:24 plugs/mpb-thumbnail-grid.php:45
+msgid "Display animated images while scrolling"
+msgstr ""
+
+#: plugs/mpb-metro-grid.php:37
+msgid "Insert Metro Shortcode"
+msgstr ""
+
+#: plugs/mpb-modal.php:13
+msgid "Modal"
+msgstr ""
+
+#: plugs/mpb-modal.php:16
+msgid "Add a Modal Popup window"
+msgstr ""
+
+#: plugs/mpb-modal.php:30
+msgid "Modal ID ( unqiue )"
+msgstr ""
+
+#: plugs/mpb-modal.php:31
+msgid "Modal ID - has to be a unique name."
+msgstr ""
+
+#: plugs/mpb-modal.php:65
+msgid "Button's Text"
+msgstr ""
+
+#: plugs/mpb-modal.php:66
+msgid "Add the button's text"
+msgstr ""
+
+#: plugs/mpb-modal.php:72 plugs/mpb-modal.php:73
+msgid "Modal contents"
+msgstr ""
+
+#: plugs/mpb-modal.php:77
+msgid "Add Modal"
+msgstr ""
+
+#: plugs/mpb-pageshare.php:12
+msgid "Page Share"
+msgstr ""
+
+#: plugs/mpb-pageshare.php:15
+msgid "Generate Pageshare social icons"
+msgstr ""
+
+#: plugs/mpb-pageshare.php:29
+msgid "Facebook"
+msgstr ""
+
+#: plugs/mpb-pageshare.php:35
+msgid "Twitter"
+msgstr ""
+
+#: plugs/mpb-pageshare.php:41
+msgid "Linkedin"
+msgstr ""
+
+#: plugs/mpb-pageshare.php:47
+msgid "Google Plus"
+msgstr ""
+
+#: plugs/mpb-pageshare.php:53
+msgid "Reddit"
+msgstr ""
+
+#: plugs/mpb-pageshare.php:59
+msgid "Tumblr"
+msgstr ""
+
+#: plugs/mpb-pageshare.php:65
+msgid "Pinterest"
+msgstr ""
+
+#: plugs/mpb-pageshare.php:71
+msgid "Mailto"
+msgstr ""
+
+#: plugs/mpb-pageshare.php:76 plugs/mpb-richtext.php:16
+#: plugs/mpb-richtext.php:37
+msgid "Add Richtext"
+msgstr ""
+
+#: plugs/mpb-pageshare.php:133
+msgid "Share"
+msgstr ""
+
+#: plugs/mpb-photocard.php:13
+msgid "Photocard"
+msgstr ""
+
+#: plugs/mpb-photocard.php:16 plugs/mpb-photocard.php:25
+#: plugs/mpb-photocard.php:130
+msgid "Add a Photocard"
+msgstr ""
+
+#: plugs/mpb-photocard.php:40 plugs/mpb-photocard.php:41
+msgid "Image block display"
+msgstr ""
+
+#: plugs/mpb-photocard.php:56
+msgid "MP4"
+msgstr ""
+
+#: plugs/mpb-photocard.php:57
+msgid "MP4 url."
+msgstr ""
+
+#: plugs/mpb-photocard.php:62
+msgid "WEBM"
+msgstr ""
+
+#: plugs/mpb-photocard.php:63
+msgid "WEBM url"
+msgstr ""
+
+#: plugs/mpb-photocard.php:68
+msgid "OGV"
+msgstr ""
+
+#: plugs/mpb-photocard.php:69
+msgid "OGV url"
+msgstr ""
+
+#: plugs/mpb-photocard.php:79 plugs/mpb-photocard.php:80
+msgid "Content Color"
+msgstr ""
+
+#: plugs/mpb-photocard.php:89 plugs/mpb-photocard.php:90
+msgid "Text align"
+msgstr ""
+
+#: plugs/mpb-photocard.php:100 plugs/mpb-photocard.php:101
+msgid "Title Text"
+msgstr ""
+
+#: plugs/mpb-photocard.php:106 plugs/mpb-photocard.php:107
+msgid "Subtitle text"
+msgstr ""
+
+#: plugs/mpb-photocard.php:118 plugs/mpb-photocard.php:119
+#: plugs/mpb-pricing-service.php:75 plugs/mpb-pricing-service.php:77
+#: plugs/mpb-pricing-service.php:78 plugs/mpb-pricingtable.php:76
+#: plugs/mpb-pricingtable.php:78 plugs/mpb-pricingtable.php:79
+#: plugs/mpb-sectionheading.php:84 plugs/mpb-sectionheading.php:85
+msgid "Button link"
+msgstr ""
+
+#: plugs/mpb-photocard.php:125 plugs/mpb-photocard.php:126
+msgid "Text for contents"
+msgstr ""
+
+#: plugs/mpb-portfolio-grid.php:37
+msgid "Portfolio Grid"
+msgstr ""
+
+#: plugs/mpb-portfolio-grid.php:39 plugs/mpb-portfolio-slideshow.php:39
+#: plugs/mpb-works-carousel.php:39 plugs/mpb-worktype-albums.php:40
+msgid "Portfolio"
+msgstr ""
+
+#: plugs/mpb-portfolio-grid.php:40
+msgid "Generate a Portfolio Grid"
+msgstr ""
+
+#: plugs/mpb-portfolio-grid.php:46
+msgid "A Grid based list of portfolio items."
+msgstr ""
+
+#: plugs/mpb-portfolio-grid.php:51
+msgid "Choose Work types to list"
+msgstr ""
+
+#: plugs/mpb-portfolio-grid.php:52 plugs/mpb-portfolio-slideshow.php:62
+#: plugs/mpb-works-carousel.php:56 plugs/mpb-worktype-albums.php:53
+msgid ""
+"Leave blank to list all. Enter comma seperated work type categories. eg. "
+"artwork,photography,prints "
+msgstr ""
+
+#: plugs/mpb-portfolio-grid.php:57 plugs/mpb-portfolio-grid.php:58
+msgid "Type of Portfolio list"
+msgstr ""
+
+#: plugs/mpb-portfolio-grid.php:60
+msgid "No Filter"
+msgstr ""
+
+#: plugs/mpb-portfolio-grid.php:61
+msgid "Filterable"
+msgstr ""
+
+#: plugs/mpb-portfolio-grid.php:62
+msgid "Ajax Filterable"
+msgstr ""
+
+#: plugs/mpb-portfolio-grid.php:72 plugs/mpb-thumbnail-grid.php:39
+msgid "Masonary"
+msgstr ""
+
+#: plugs/mpb-portfolio-grid.php:77 plugs/mpb-portfolio-grid.php:78
+#: plugs/mpb-thumbnail-grid.php:53 plugs/mpb-thumbnail-grid.php:54
+msgid "Gutter Space"
+msgstr ""
+
+#: plugs/mpb-portfolio-grid.php:80 plugs/mpb-thumbnail-grid.php:56
+msgid "Spaced"
+msgstr ""
+
+#: plugs/mpb-portfolio-grid.php:81 plugs/mpb-thumbnail-grid.php:57
+msgid "No Space"
+msgstr ""
+
+#: plugs/mpb-portfolio-grid.php:97 plugs/mpb-portfolio-grid.php:98
+msgid "Box title and category"
+msgstr ""
+
+#: plugs/mpb-portfolio-grid.php:139
+msgid "Insert Portfolio Grid Shortcode"
+msgstr ""
+
+#: plugs/mpb-portfolio-slideshow.php:37
+msgid "Portfolio Slideshow"
+msgstr ""
+
+#: plugs/mpb-portfolio-slideshow.php:40
+msgid "Add a Slideshow of Portfolio posts"
+msgstr ""
+
+#: plugs/mpb-portfolio-slideshow.php:50 plugs/mpb-portfolio-slideshow.php:86
+#: plugs/mpb-worktype-albums.php:47
+msgid "Add a slideshow of portfolio items"
+msgstr ""
+
+#: plugs/mpb-portfolio-slideshow.php:61 plugs/mpb-works-carousel.php:55
+#: plugs/mpb-worktype-albums.php:52
+msgid "Enter Work type slugs to list"
+msgstr ""
+
+#: plugs/mpb-pricing-service.php:12
+msgid "Pricing Service"
+msgstr ""
+
+#: plugs/mpb-pricing-service.php:15
+msgid "Add Pricing Service"
+msgstr ""
+
+#: plugs/mpb-pricing-service.php:26 plugs/mpb-pricingtable.php:27
+msgid ""
+"Add Pricing shortcode. You can configure the shortcode after adding them."
+msgstr ""
+
+#: plugs/mpb-pricing-service.php:28 plugs/mpb-pricingtable.php:16
+#: plugs/mpb-pricingtable.php:29
+msgid "Add Pricing Table"
+msgstr ""
+
+#: plugs/mpb-pricing-service.php:36 plugs/mpb-pricingtable.php:37
+msgid "Standard"
+msgstr ""
+
+#: plugs/mpb-pricing-service.php:38 plugs/mpb-pricingtable.php:39
+msgid "Column Title"
+msgstr ""
+
+#: plugs/mpb-pricing-service.php:39 plugs/mpb-pricingtable.php:40
+msgid "Column title"
+msgstr ""
+
+#: plugs/mpb-pricing-service.php:44 plugs/mpb-pricing-service.php:45
+#: plugs/mpb-pricingtable.php:45 plugs/mpb-pricingtable.php:46
+msgid "Pricing title color"
+msgstr ""
+
+#: plugs/mpb-pricing-service.php:49 plugs/mpb-pricing-service.php:50
+#: plugs/mpb-pricingtable.php:50 plugs/mpb-pricingtable.php:51
+msgid "Make Featured"
+msgstr ""
+
+#: plugs/mpb-pricing-service.php:59 plugs/mpb-pricingtable.php:60
+msgid "Currency Symbol"
+msgstr ""
+
+#: plugs/mpb-pricing-service.php:60 plugs/mpb-pricingtable.php:61
+msgid "Enter currency symbol."
+msgstr ""
+
+#: plugs/mpb-pricing-service.php:65 plugs/mpb-pricingtable.php:66
+msgid "Price value"
+msgstr ""
+
+#: plugs/mpb-pricing-service.php:66 plugs/mpb-pricingtable.php:67
+msgid "Enter price value."
+msgstr ""
+
+#: plugs/mpb-pricing-service.php:69 plugs/mpb-pricingtable.php:70
+msgid "monthly"
+msgstr ""
+
+#: plugs/mpb-pricing-service.php:71 plugs/mpb-pricingtable.php:72
+msgid "Enter duration"
+msgstr ""
+
+#: plugs/mpb-pricing-service.php:72 plugs/mpb-pricingtable.php:73
+msgid "Enter duration."
+msgstr ""
+
+#: plugs/mpb-pricing-service.php:83 plugs/mpb-pricing-service.php:84
+#: plugs/mpb-pricingtable.php:84 plugs/mpb-pricingtable.php:85
+msgid "Button text"
+msgstr ""
+
+#: plugs/mpb-pricing-service.php:90 plugs/mpb-richtext.php:31
+#: plugs/mpb-textbox.php:102
+msgid "Rich Text"
+msgstr ""
+
+#: plugs/mpb-pricing-service.php:91 plugs/mpb-richtext.php:32
+#: plugs/mpb-textbox.php:103
+msgid "Add the content"
+msgstr ""
+
+#: plugs/mpb-pricingtable.php:13
+msgid "Pricing table"
+msgstr ""
+
+#: plugs/mpb-pricingtable.php:91
+msgid "Row Text"
+msgstr ""
+
+#: plugs/mpb-pricingtable.php:93 plugs/mpb-pricingtable.php:94
+msgid "Row text"
+msgstr ""
+
+#: plugs/mpb-pricingtable.php:98
+msgid "Tick or Cross"
+msgstr ""
+
+#: plugs/mpb-pricingtable.php:99
+msgid "Mark as a present or absent feature"
+msgstr ""
+
+#: plugs/mpb-pricingtable.php:101
+msgid "Tick"
+msgstr ""
+
+#: plugs/mpb-pricingtable.php:102
+msgid "Cross"
+msgstr ""
+
+#: plugs/mpb-pricingtable.php:108
+msgid "+ Add Another Column"
+msgstr ""
+
+#: plugs/mpb-pricingtable.php:125 plugs/mpb-pricingtable.php:132
+#: plugs/mpb-pricingtable.php:202
+msgid "Pricing Tab"
+msgstr ""
+
+#: plugs/mpb-progressbar.php:13
+msgid "Progress bar"
+msgstr ""
+
+#: plugs/mpb-progressbar.php:16
+msgid "Display Progressbars"
+msgstr ""
+
+#: plugs/mpb-progressbar.php:25
+msgid "Generates a percentage based progress bar."
+msgstr ""
+
+#: plugs/mpb-progressbar.php:27
+msgid "Insert Progressbar"
+msgstr ""
+
+#: plugs/mpb-progressbar.php:34
+msgid "Progress Bar title"
+msgstr ""
+
+#: plugs/mpb-progressbar.php:35
+msgid "Progress bar title"
+msgstr ""
+
+#: plugs/mpb-progressbar.php:40 plugs/mpb-progressbar.php:41
+msgid "Display unit"
+msgstr ""
+
+#: plugs/mpb-progressbar.php:46
+msgid "Progress color"
+msgstr ""
+
+#: plugs/mpb-progressbar.php:47
+msgid "Progress color in hex"
+msgstr ""
+
+#: plugs/mpb-progressbar.php:52 plugs/mpb-progressbar.php:53
+msgid "Percent Value"
+msgstr ""
+
+#: plugs/mpb-progressbar.php:59
+msgid "+ Add Another Progress Bar"
+msgstr ""
+
+#: plugs/mpb-progressbar.php:77 plugs/mpb-progressbar.php:146
+msgid "Progress Name"
+msgstr ""
+
+#: plugs/mpb-progressbar.php:82
+msgid "Progress Bar"
+msgstr ""
+
+#: plugs/mpb-pullquote.php:13
+msgid "Pullquote"
+msgstr ""
+
+#: plugs/mpb-pullquote.php:16
+msgid "Add a Pullquote"
+msgstr ""
+
+#: plugs/mpb-pullquote.php:25
+msgid "Display Pullquotes"
+msgstr ""
+
+#: plugs/mpb-pullquote.php:36 plugs/mpb-pullquote.php:37
+msgid "Pullquote text"
+msgstr ""
+
+#: plugs/mpb-pullquote.php:41 plugs/mpb-pullquote.php:42
+msgid "Alignment"
+msgstr ""
+
+#: plugs/mpb-pullquote.php:52
+msgid "Insert Pullquote"
+msgstr ""
+
+#: plugs/mpb-richtext.php:13
+msgid "Richtext Box"
+msgstr ""
+
+#: plugs/mpb-sectionheading.php:13 plugs/mpb-sectionheading.php:14
+msgid "Section Heading"
+msgstr ""
+
+#: plugs/mpb-sectionheading.php:17
+msgid "Display Section Heading"
+msgstr ""
+
+#: plugs/mpb-sectionheading.php:26
+msgid "Display Section Headings"
+msgstr ""
+
+#: plugs/mpb-sectionheading.php:36 plugs/mpb-sectionheading.php:37
+#: plugs/mpb-sectionheading.php:43
+msgid "Section Heading text"
+msgstr ""
+
+#: plugs/mpb-sectionheading.php:42
+msgid "Section subtitle (optional)"
+msgstr ""
+
+#: plugs/mpb-sectionheading.php:47 plugs/mpb-sectionheading.php:48
+msgid "Align text"
+msgstr ""
+
+#: plugs/mpb-sectionheading.php:57 plugs/mpb-sectionheading.php:58
+msgid "Heading size"
+msgstr ""
+
+#: plugs/mpb-sectionheading.php:73
+msgid "Add content"
+msgstr ""
+
+#: plugs/mpb-sectionheading.php:90 plugs/mpb-sectionheading.php:91
+msgid "Width in percent"
+msgstr ""
+
+#: plugs/mpb-sectionheading.php:96
+msgid "Padding Top in pixels"
+msgstr ""
+
+#: plugs/mpb-sectionheading.php:102
+msgid "Padding bottom pixels"
+msgstr ""
+
+#: plugs/mpb-sectionheading.php:108
+msgid "Margin bottom pixels"
+msgstr ""
+
+#: plugs/mpb-sectionheading.php:109
+msgid "Margin Bottom Spacing"
+msgstr ""
+
+#: plugs/mpb-sectionheading.php:113
+msgid "Insert Section Heading"
+msgstr ""
+
+#: plugs/mpb-service-list.php:13
+msgid "Service List"
+msgstr ""
+
+#: plugs/mpb-service-list.php:16
+msgid "Add a Service list"
+msgstr ""
+
+#: plugs/mpb-service-list.php:27 plugs/mpb-services.php:26
+msgid ""
+"Add Service columns. You can add multiple service items from this generator "
+"as well as sort them before adding to contents editor."
+msgstr ""
+
+#: plugs/mpb-service-list.php:29 plugs/mpb-services.php:28
+msgid "Generate Services"
+msgstr ""
+
+#: plugs/mpb-service-list.php:38 plugs/mpb-services.php:46
+msgid "iCon Border"
+msgstr ""
+
+#: plugs/mpb-service-list.php:39 plugs/mpb-services.php:47
+msgid "Placement of service boxes"
+msgstr ""
+
+#: plugs/mpb-service-list.php:49 plugs/mpb-services.php:57
+msgid "Color of icon in hex"
+msgstr ""
+
+#: plugs/mpb-service-list.php:54 plugs/mpb-services.php:62
+msgid "Icon background color"
+msgstr ""
+
+#: plugs/mpb-service-list.php:55 plugs/mpb-services.php:63
+msgid "Background color of icon"
+msgstr ""
+
+#: plugs/mpb-service-list.php:63 plugs/mpb-services.php:68
+#: plugs/mpb-staff.php:73
+msgid "Choose a Fontawesome icon"
+msgstr ""
+
+#: plugs/mpb-service-list.php:64 plugs/mpb-services.php:69
+#: plugs/mpb-staff.php:74
+msgid "Pick a fontawesome icon"
+msgstr ""
+
+#: plugs/mpb-service-list.php:71 plugs/mpb-services.php:76
+msgid "Title of the service"
+msgstr ""
+
+#: plugs/mpb-service-list.php:88
+msgid "+ Add another Service Column"
+msgstr ""
+
+#: plugs/mpb-service-list.php:106 plugs/mpb-service-list.php:111
+#: plugs/mpb-service-list.php:182
+msgid "New Service"
+msgstr ""
+
+#: plugs/mpb-services.php:13
+msgid "Services"
+msgstr ""
+
+#: plugs/mpb-services.php:16
+msgid "Add Service Boxes"
+msgstr ""
+
+#: plugs/mpb-services.php:37
+msgid "Icon Placement"
+msgstr ""
+
+#: plugs/mpb-services.php:38
+msgid "Placement of icon"
+msgstr ""
+
+#: plugs/mpb-services.php:40
+msgid "top"
+msgstr ""
+
+#: plugs/mpb-singleimage.php:13
+msgid "Single Image"
+msgstr ""
+
+#: plugs/mpb-singleimage.php:16
+msgid "Add an Image"
+msgstr ""
+
+#: plugs/mpb-singleimage.php:25
+msgid "Display an image"
+msgstr ""
+
+#: plugs/mpb-singleimage.php:35 plugs/mpb-singleimage.php:36
+msgid "Top Space"
+msgstr ""
+
+#: plugs/mpb-singleimage.php:41 plugs/mpb-singleimage.php:42
+msgid "Bottom Space"
+msgstr ""
+
+#: plugs/mpb-singleimage.php:52 plugs/mpb-singleimage.php:53
+msgid "Open link in"
+msgstr ""
+
+#: plugs/mpb-singleimage.php:55
+msgid "Same Tab"
+msgstr ""
+
+#: plugs/mpb-singleimage.php:56 plugs/mpb-tabs.php:148
+msgid "New Tab"
+msgstr ""
+
+#: plugs/mpb-singleimage.php:68 plugs/mpb-singleimage.php:69
+msgid "Image ID"
+msgstr ""
+
+#: plugs/mpb-singleimage.php:73 plugs/mpb-singleimage.php:74
+msgid "Align image"
+msgstr ""
+
+#: plugs/mpb-singleimage.php:85
+msgid "Insert an image"
+msgstr ""
+
+#: plugs/mpb-slideshowcarousel.php:15
+msgid "Add a Slideshow Carousel"
+msgstr ""
+
+#: plugs/mpb-slideshowcarousel.php:20
+msgid "Generate a Slideshow"
+msgstr ""
+
+#: plugs/mpb-slideshowcarousel.php:29
+msgid "Dispay thumbnails"
+msgstr ""
+
+#: plugs/mpb-slideshowcarousel.php:30 plugs/mpb-slideshowcarousel.php:50
+msgid "Display thumbnails"
+msgstr ""
+
+#: plugs/mpb-slideshowcarousel.php:49
+msgid "Dispay title"
+msgstr ""
+
+#: plugs/mpb-slideshowcarousel.php:58
+msgid "Insert Slideshow"
+msgstr ""
+
+#: plugs/mpb-socialicons.php:13
+msgid "Sociallink"
+msgstr ""
+
+#: plugs/mpb-socialicons.php:16
+msgid "Add a Social Link"
+msgstr ""
+
+#: plugs/mpb-socialicons.php:21 plugs/mpb-socialicons.php:59
+msgid "Add a Social link"
+msgstr ""
+
+#: plugs/mpb-socialicons.php:26 plugs/mpb-worktype-albums.php:79
+msgid "Font Awesome icon"
+msgstr ""
+
+#: plugs/mpb-socialicons.php:27
+msgid "Select a fontawesome icon"
+msgstr ""
+
+#: plugs/mpb-socialicons.php:32 plugs/mpb-socialicons.php:33
+msgid "Align"
+msgstr ""
+
+#: plugs/mpb-socialicons.php:42 plugs/mpb-socialicons.php:43
+msgid "Social icon color"
+msgstr ""
+
+#: plugs/mpb-socialicons.php:48 plugs/mpb-socialicons.php:49
+msgid "Social link"
+msgstr ""
+
+#: plugs/mpb-socialicons.php:54 plugs/mpb-socialicons.php:55
+msgid "Social hover text"
+msgstr ""
+
+#: plugs/mpb-staff.php:13
+msgid "Staff"
+msgstr ""
+
+#: plugs/mpb-staff.php:16
+msgid "Add a Staff Block"
+msgstr ""
+
+#: plugs/mpb-staff.php:27
+msgid "Add a Staff with multiple social links."
+msgstr ""
+
+#: plugs/mpb-staff.php:29
+msgid "Insert Staff Shortcode"
+msgstr ""
+
+#: plugs/mpb-staff.php:39 plugs/mpb-staff.php:40
+msgid "Staff title"
+msgstr ""
+
+#: plugs/mpb-staff.php:45 plugs/mpb-staff.php:46
+msgid "Staff name"
+msgstr ""
+
+#: plugs/mpb-staff.php:51 plugs/mpb-staff.php:52
+msgid "Staff image"
+msgstr ""
+
+#: plugs/mpb-staff.php:64 plugs/mpb-staff.php:65
+msgid "Staff Description"
+msgstr ""
+
+#: plugs/mpb-staff.php:80 plugs/mpb-staff.php:81
+msgid "Social Text"
+msgstr ""
+
+#: plugs/mpb-staff.php:87
+msgid "Social Link"
+msgstr ""
+
+#: plugs/mpb-staff.php:92
+msgid "+ Add Another Social Link"
+msgstr ""
+
+#: plugs/mpb-staff.php:109 plugs/mpb-staff.php:184
+msgid "Social Site Name"
+msgstr ""
+
+#: plugs/mpb-staff.php:114
+msgid "Social Tab"
+msgstr ""
+
+#: plugs/mpb-tabs.php:13 plugs/mpb-tabs.php:82
+msgid "Tabs"
+msgstr ""
+
+#: plugs/mpb-tabs.php:16
+msgid "Add a Tab set"
+msgstr ""
+
+#: plugs/mpb-tabs.php:23
+msgid ""
+"Add tabs shortcode. You can add multiple tab sections within this generator."
+msgstr ""
+
+#: plugs/mpb-tabs.php:25
+msgid "Insert Tab Shortcode"
+msgstr ""
+
+#: plugs/mpb-tabs.php:29 plugs/mpb-tabs.php:30
+msgid "Tab function type"
+msgstr ""
+
+#: plugs/mpb-tabs.php:32
+msgid "horizontal"
+msgstr ""
+
+#: plugs/mpb-tabs.php:33
+msgid "vertical"
+msgstr ""
+
+#: plugs/mpb-tabs.php:42
+msgid "Tab Title"
+msgstr ""
+
+#: plugs/mpb-tabs.php:43
+msgid "Title of the tab"
+msgstr ""
+
+#: plugs/mpb-tabs.php:46 plugs/mpb-tabs.php:48
+msgid "Tab Content"
+msgstr ""
+
+#: plugs/mpb-tabs.php:49
+msgid "Tab content"
+msgstr ""
+
+#: plugs/mpb-tabs.php:53
+msgid "+ Add Another Tab"
+msgstr ""
+
+#: plugs/mpb-tabs.php:70
+msgid "My New Tab"
+msgstr ""
+
+#: plugs/mpb-tabs.php:71
+msgid "My tab contents"
+msgstr ""
+
+#: plugs/mpb-tabs.php:83
+msgid "Toggles"
+msgstr ""
+
+#: plugs/mpb-tabs.php:84
+msgid "Accordion"
+msgstr ""
+
+#: plugs/mpb-tabs.php:149
+msgid "My tab content"
+msgstr ""
+
+#: plugs/mpb-testimonials.php:13
+msgid "Testimonials"
+msgstr ""
+
+#: plugs/mpb-testimonials.php:16
+msgid "Add Testimonial sets"
+msgstr ""
+
+#: plugs/mpb-testimonials.php:27
+msgid ""
+"Generates testimonials slideshow using multiple testimonial items. You can "
+"add as many testimonial items as you prefer and multiple testimonial blocks "
+"on the same page."
+msgstr ""
+
+#: plugs/mpb-testimonials.php:29
+msgid "Insert Testimonial Shortcode"
+msgstr ""
+
+#: plugs/mpb-testimonials.php:34 plugs/mpb-testimonials.php:89
+#: plugs/mpb-testimonials.php:166
+msgid "John Doe"
+msgstr ""
+
+#: plugs/mpb-testimonials.php:36 plugs/mpb-testimonials.php:37
+msgid "Client Name"
+msgstr ""
+
+#: plugs/mpb-testimonials.php:42 plugs/mpb-testimonials.php:43
+msgid "Company"
+msgstr ""
+
+#: plugs/mpb-testimonials.php:48
+msgid "Company link"
+msgstr ""
+
+#: plugs/mpb-testimonials.php:49
+msgid "Client link"
+msgstr ""
+
+#: plugs/mpb-testimonials.php:64
+msgid ""
+"Nullam id dolor id nibh ultricies vehicula ut id elit. Nulla vitae elit "
+"libero a pharetra augue. Nulla vitae elit libero, a pharetra augue."
+msgstr ""
+
+#: plugs/mpb-testimonials.php:66 plugs/mpb-testimonials.php:67
+msgid "Quote"
+msgstr ""
+
+#: plugs/mpb-testimonials.php:72
+msgid "+ Add Testimonial"
+msgstr ""
+
+#: plugs/mpb-testimonials.php:97
+msgid "Testimonial Tab"
+msgstr ""
+
+#: plugs/mpb-textbox.php:13
+msgid "Textbox Box"
+msgstr ""
+
+#: plugs/mpb-textbox.php:16 plugs/mpb-textbox.php:108
+msgid "Add Textbox"
+msgstr ""
+
+#: plugs/mpb-textbox.php:36 plugs/mpb-textbox.php:37
+msgid "Text color"
+msgstr ""
+
+#: plugs/mpb-textbox.php:41 plugs/mpb-textbox.php:42
+msgid "Choose Border style"
+msgstr ""
+
+#: plugs/mpb-textbox.php:44
+msgid "Solid"
+msgstr ""
+
+#: plugs/mpb-textbox.php:54
+msgid "Note: Double style borders need size 3 onwards"
+msgstr ""
+
+#: plugs/mpb-textbox.php:59 plugs/mpb-textbox.php:60
+msgid "Border color"
+msgstr ""
+
+#: plugs/mpb-textbox.php:77 plugs/mpb-textbox.php:78
+msgid "Margin sides in pixels"
+msgstr ""
+
+#: plugs/mpb-thumbnail-grid.php:11
+msgid "Thumbnails Grid"
+msgstr ""
+
+#: plugs/mpb-thumbnail-grid.php:14
+msgid "Generate a Thumbnail Grid"
+msgstr ""
+
+#: plugs/mpb-thumbnail-grid.php:71
+msgid "Dispay image title"
+msgstr ""
+
+#: plugs/mpb-thumbnail-grid.php:72
+msgid "Display image title"
+msgstr ""
+
+#: plugs/mpb-thumbnail-grid.php:80 plugs/mpb-thumbnail-grid.php:81
+msgid "Display image description"
+msgstr ""
+
+#: plugs/mpb-thumbnail-grid.php:94
+msgid "Insert Thumbnails Shortcode"
+msgstr ""
+
+#: plugs/mpb-toggle.php:13
+msgid "Toggle"
+msgstr ""
+
+#: plugs/mpb-toggle.php:16
+msgid "Add a Toggle"
+msgstr ""
+
+#: plugs/mpb-toggle.php:25
+msgid "Add toggle shortcode."
+msgstr ""
+
+#: plugs/mpb-toggle.php:29
+msgid "Toggle Content Title"
+msgstr ""
+
+#: plugs/mpb-toggle.php:30
+msgid "Add the title that will go above the toggle content"
+msgstr ""
+
+#: plugs/mpb-toggle.php:36
+msgid "Toggle Content"
+msgstr ""
+
+#: plugs/mpb-toggle.php:37
+msgid "Add the toggle content."
+msgstr ""
+
+#: plugs/mpb-toggle.php:41
+msgid "Toggle State"
+msgstr ""
+
+#: plugs/mpb-toggle.php:42
+msgid "Select the state of the toggle on page load"
+msgstr ""
+
+#: plugs/mpb-toggle.php:44
+msgid "Open"
+msgstr ""
+
+#: plugs/mpb-toggle.php:45
+msgid "Closed"
+msgstr ""
+
+#: plugs/mpb-toggle.php:51
+msgid "Insert Toggle Content Shortcode"
+msgstr ""
+
+#: plugs/mpb-vimeovideo.php:13
+msgid "Vimeo Video"
+msgstr ""
+
+#: plugs/mpb-vimeovideo.php:16
+msgid "Vimeo video"
+msgstr ""
+
+#: plugs/mpb-vimeovideo.php:25
+msgid "Add a Vimeo video"
+msgstr ""
+
+#: plugs/mpb-vimeovideo.php:30
+msgid "Vimeo Video ID"
+msgstr ""
+
+#: plugs/mpb-vimeovideo.php:31
+msgid "eg: <code>123456789</code> in http://vimeo.com/123456789"
+msgstr ""
+
+#: plugs/mpb-vimeovideo.php:36 plugs/mpb-vimeovideo.php:37
+#: plugs/mpb-youtubevideo.php:36 plugs/mpb-youtubevideo.php:37
+msgid "Width in pixels"
+msgstr ""
+
+#: plugs/mpb-vimeovideo.php:47 plugs/mpb-vimeovideo.php:48
+#: plugs/mpb-youtubevideo.php:47 plugs/mpb-youtubevideo.php:48
+msgid "Enable Autoplay"
+msgstr ""
+
+#: plugs/mpb-vimeovideo.php:56
+msgid "Add a Vimeo Video"
+msgstr ""
+
+#: plugs/mpb-works-carousel.php:37
+msgid "Works Carousel"
+msgstr ""
+
+#: plugs/mpb-works-carousel.php:40
+msgid "Add Carousel based on Worktype Categories"
+msgstr ""
+
+#: plugs/mpb-works-carousel.php:50
+msgid ""
+"Generate a slideshow thumbnails carousel using your work type categories."
+msgstr ""
+
+#: plugs/mpb-works-carousel.php:98
+msgid "Insert Works Carousel Shortcode"
+msgstr ""
+
+#: plugs/mpb-worktype-albums.php:38
+msgid "Worktype Albums"
+msgstr ""
+
+#: plugs/mpb-worktype-albums.php:41
+msgid "Add a Worktype Grid"
+msgstr ""
+
+#: plugs/mpb-worktype-albums.php:80
+msgid "Select a fontawesome hover icon"
+msgstr ""
+
+#: plugs/mpb-worktype-albums.php:85 plugs/mpb-worktype-albums.php:86
+msgid "Display item count"
+msgstr ""
+
+#: plugs/mpb-worktype-albums.php:88 plugs/mpb-worktype-albums.php:97
+#: plugs/mpb-worktype-albums.php:106
+msgid "true"
+msgstr ""
+
+#: plugs/mpb-worktype-albums.php:89 plugs/mpb-worktype-albums.php:98
+#: plugs/mpb-worktype-albums.php:107
+msgid "false"
+msgstr ""
+
+#: plugs/mpb-worktype-albums.php:94 plugs/mpb-worktype-albums.php:95
+msgid "Display title"
+msgstr ""
+
+#: plugs/mpb-worktype-albums.php:103 plugs/mpb-worktype-albums.php:104
+msgid "Display description"
+msgstr ""
+
+#: plugs/mpb-worktype-albums.php:112
+msgid "Display work type albums"
+msgstr ""
+
+#: plugs/mpb-youtubevideo.php:13
+msgid "Youtube Video"
+msgstr ""
+
+#: plugs/mpb-youtubevideo.php:16
+msgid "Youtube video"
+msgstr ""
+
+#: plugs/mpb-youtubevideo.php:25
+msgid "Add a Youtube video"
+msgstr ""
+
+#: plugs/mpb-youtubevideo.php:30
+msgid "Youtube Video ID"
+msgstr ""
+
+#: plugs/mpb-youtubevideo.php:31
+msgid "eg: <code>MIreKV3QaGv</code> in http://www.youtube.com/MIreKV3QaGv"
+msgstr ""
+
+#: plugs/mpb-youtubevideo.php:56 plugs/mpb-youtubevideo.php:57
+msgid "Related videos"
+msgstr ""
+
+#: plugs/mpb-youtubevideo.php:65
+msgid "Add a Youtube Video"
+msgstr ""
+
+#: view/view-settings-page.php:19
+msgid "Cheatin&#8217; uh?"
+msgstr ""
+
+#: view/view-settings-page.php:63 view/view-settings-page.php:89
+msgid "The "
+msgstr ""
+
+#: view/view-settings-page.php:63
+msgid " page template has been successfully created"
+msgstr ""
+
+#: view/view-settings-page.php:71
+msgid "Sorry, the operation was unsuccessful for the following reason(s): "
+msgstr ""
+
+#: view/view-settings-page.php:89
+msgid " page template has been updated"
+msgstr ""
+
+#: view/view-settings-page.php:101
+msgid "The template has been successfully deleted"
+msgstr ""
+
+#: view/view-settings-page.php:120
+msgid "Available Blocks"
+msgstr ""
+
+#: view/view-settings-page.php:120
+msgid "Deleting"
+msgstr ""
+
+#: view/view-settings-page.php:152
+msgid "Cancel"
+msgstr ""
+
+#: view/view-settings-page.php:222
+msgid "Clear All"
+msgstr ""
+
+#: view/view-settings-page.php:223
+msgid "Redo"
+msgstr ""
+
+#: view/view-settings-page.php:224
+msgid "Undo"
+msgstr ""
+
+#: view/view-settings-page.php:227 view/view-settings-page.php:420
+msgid "Import Blocks"
+msgstr ""
+
+#: view/view-settings-page.php:230
+msgid "Export Blocks"
+msgstr ""
+
+#: view/view-settings-page.php:233
+msgid "Preset Templates"
+msgstr ""
+
+#: view/view-settings-page.php:238
+msgid "Choose a Preset Template"
+msgstr ""
+
+#: view/view-settings-page.php:239
+msgid ""
+"Selecting and confirming one will replace the pagebuilder blocks with the "
+"preset blocks."
+msgstr ""
+
+#: view/view-settings-page.php:290
+msgid "Delete Template"
+msgstr ""
+
+#: view/view-settings-page.php:295
+msgid "Export Templates"
+msgstr ""
+
+#: view/view-settings-page.php:296 view/view-settings-page.php:409
+msgid "Import Templates"
+msgstr ""
+
+#: view/view-settings-page.php:298
+msgid "Template Name"
+msgstr ""
+
+#: view/view-settings-page.php:298
+msgid "Save"
+msgstr ""
+
+#: view/view-settings-page.php:298 view/view-settings-page.php:321
+#: view/view-settings-page.php:340 view/view-settings-page.php:359
+msgid "Close"
+msgstr ""
+
+#: view/view-settings-page.php:299
+msgid "Save Template"
+msgstr ""
+
+#: view/view-settings-page.php:314
+msgid "Single block import code"
+msgstr ""
+
+#: view/view-settings-page.php:317 view/view-settings-page.php:336
+msgid "Select All and copy export code."
+msgstr ""
+
+#: view/view-settings-page.php:333
+msgid "Import code for all blocks"
+msgstr ""
+
+#: view/view-settings-page.php:352
+msgid "Import code for all Templates"
+msgstr ""
+
+#: view/view-settings-page.php:355
+msgid ""
+"Click Retrieve button to populate import data. Select All and copy code."
+msgstr ""
+
+#: view/view-settings-page.php:370
+msgid "Delete failed!"
+msgstr ""
+
+#: view/view-settings-page.php:373
+msgid "Sorry, that template cant be deleted."
+msgstr ""
+
+#: view/view-settings-page.php:383
+msgid "Confirm delete"
+msgstr ""
+
+#: view/view-settings-page.php:386
+msgid "Are you sure you want to delete the selected template"
+msgstr ""
+
+#: view/view-settings-page.php:389
+msgid "Delete"
+msgstr ""
+
+#: view/view-settings-page.php:401
+msgid "Import Builder Templates"
+msgstr ""
+
+#: view/view-settings-page.php:404
+msgid "Enter import data for all templates"
+msgstr ""
+
+#: view/view-settings-page.php:423
+msgid "Paste code for single or multiple blocks."
+msgstr ""
+
+#: view/view-settings-page.php:427
+msgid "Import"
+msgstr ""
+
+#: view/view-settings-page.php:438
+msgid "Import Preset Template"
+msgstr ""
+
+#: view/view-settings-page.php:441
+msgid "Replace all blocks with "
+msgstr ""
+
+#: view/view-settings-page.php:443
+msgid "Import Failed!"
+msgstr ""
+
+#: view/view-settings-page.php:446
+msgid "Add Preset"
+msgstr ""

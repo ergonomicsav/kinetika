@@ -1,0 +1,12 @@
+#setting-error-tgmpa {
+	display: block;
+	padding: 20px 30px 30px;
+	margin: 20px 0 20px;
+}
+#setting-error-tgmpa em {
+    background: #fffaef none repeat scroll 0 0;
+    padding: 7px 14px;
+}
+#setting-error-tgmpa > p {
+    line-height: 37px;
+}
